@@ -40,3 +40,8 @@ Installation is described in [here](INSTALL.md).
 ## Feedback
 Forward all the bugs to the issues tab or in a specified channel in Discord  
 Suggestions can also be left in the dedicated channel in Discord
+
+## Support the mod
+If you wish to support the development of the mod, there's a link at the top of this page, or you can use a bot in our discord. All supporters get access to **Extras** which you can read about in the ***Features*** part of this page.  
+Thanks a lot to people who have allready supported us!  
+For the list of supporters click [here](Supporters.md).
