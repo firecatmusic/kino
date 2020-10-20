@@ -19,6 +19,7 @@ namespace KN_Core {
     public static Color TextColorLight3;
     public static Color TextColorDark0;
     public static Color TextColorDark1;
+    public static Color TextColorLink;
     public static Color SeparatorColor;
     public static Color ContrastColor;
     public static Color ContrastHoverColor;
@@ -63,6 +64,7 @@ namespace KN_Core {
     public static KnSkin ScrollSkin;
     public static KnSkin BackgroundSkin;
     public static KnSkin BoxLeftSkin;
+    public static KnSkin ButtonLeftLinkSkin;
     public static KnSkin BoxSkin;
     public static KnSkin BoxDarkSkin;
     public static KnSkin BoxMildSkin;
@@ -104,6 +106,7 @@ namespace KN_Core {
       TextColorLight3 = new Color32(0xdf, 0xe4, 0xec, 0xff);
       TextColorDark0 = new Color32(0x76, 0x7a, 0x80, 0xff);
       TextColorDark1 = new Color32(0x29, 0x2a, 0x2f, 0xff);
+      TextColorLink = new Color32(0x34, 0x7e, 0xb2, 0xff);
 
       SeparatorColor = new Color32(0xad, 0xaf, 0xb6, 0xff);
 
@@ -185,6 +188,12 @@ namespace KN_Core {
         new KnSkin.SkinState(ListButtonHoverColor, TextColorLight0),
         new KnSkin.SkinState(ListButtonActiveColor, TextColorLight1),
         "base.png", TextAnchor.MiddleCenter, fontLight_);
+
+      ButtonLeftLinkSkin = new KnSkin(KnSkin.Type.ButtonLeft,
+        new KnSkin.SkinState(LightColor, TextColorLink),
+        new KnSkin.SkinState(LightColor, ContrastHoverColor),
+        new KnSkin.SkinState(LightColor, ContrastActiveColor),
+        "base.png", TextAnchor.MiddleLeft, fontLightBig_);
 
       BoxLeftSkin = new KnSkin(KnSkin.Type.Box,
         new KnSkin.SkinState(LightColor, TextColorDark1),

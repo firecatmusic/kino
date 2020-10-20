@@ -3,8 +3,11 @@ using UnityEngine;
 
 namespace KN_Core {
   public class KnSkin {
+    private const int Offset = 5;
+
     public enum Type {
       Button,
+      ButtonLeft,
       Box,
       Slider,
       Scroll
@@ -88,13 +91,17 @@ namespace KN_Core {
           break;
         }
         case Type.Button: {
-          MakeButton(assembly);
+          MakeButton(assembly, new RectOffset(0, 0, 0, 0));
+          break;
+        }
+        case Type.ButtonLeft: {
+          MakeButton(assembly, new RectOffset(Offset, 0, 0, 0));
           break;
         }
       }
     }
 
-    private void MakeButton(Assembly assembly) {
+    private void MakeButton(Assembly assembly, RectOffset offset) {
       normal_.Load(assembly, texturePath_);
       hover_.Load(assembly, texturePath_);
       active_.Load(assembly, texturePath_);
@@ -107,6 +114,7 @@ namespace KN_Core {
       Normal.button.active.background = active_.Texture;
       Normal.button.alignment = alignment_;
       Normal.button.font = font_;
+      Normal.button.padding = offset;
 
       Active.button.normal.textColor = active_.TextColor;
       Active.button.normal.background = active_.Texture;
@@ -116,11 +124,10 @@ namespace KN_Core {
       Active.button.active.background = active_.Texture;
       Active.button.alignment = alignment_;
       Active.button.font = font_;
+      Active.button.padding = offset;
     }
 
     private void MakeBox(Assembly assembly) {
-      const int offset = 5;
-
       normal_.Load(assembly, texturePath_);
       hover_.Load(assembly, texturePath_);
       active_.Load(assembly, texturePath_);
@@ -133,7 +140,7 @@ namespace KN_Core {
       Normal.box.active.background = active_.Texture;
       Normal.box.alignment = alignment_;
       Normal.box.font = font_;
-      Normal.box.padding = new RectOffset(offset, offset, 0, 0);
+      Normal.box.padding = new RectOffset(Offset, Offset, 0, 0);
 
       Active.box.normal.textColor = active_.TextColor;
       Active.box.normal.background = active_.Texture;
@@ -143,7 +150,7 @@ namespace KN_Core {
       Active.box.active.background = active_.Texture;
       Active.box.alignment = alignment_;
       Active.box.font = font_;
-      Normal.box.padding = new RectOffset(offset, offset, 0, 0);
+      Normal.box.padding = new RectOffset(Offset, Offset, 0, 0);
     }
 
     private void MakeSlider(Assembly assembly) {
