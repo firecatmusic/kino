@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<locale loc="pl" author="Sleepy">
+<locale loc="pl" author="Sleepy, ZiomsoN">
   <!--MODS (TABS)-->
+  <key id="car_lights" value="ŚWIATŁA"/>
+  <key id="world_lights" value="OŚWIETLENIE ŚWIATA"/>
   <key id="visuals" value="WIZUALNE"/>
   <key id="settings" value="USTAWIENIA"/>
   <key id="maps" value="MAPY"/>
   <key id="about" value="O NAS"/>
+  <key id="extras" value="DODATKI"/>
 
   <!--COMMON-->
   <key id="language" value="JĘZYK"/>
@@ -18,9 +21,15 @@
   <key id="blue" value="NIEBIESKI"/>
   <key id="alpha" value="ALPHA"/>
   <key id="close" value="ZAMKNIJ"/>
+  <key id="reload" value="PRZEŁADUJ"/>
+  <key id="front" value="PRZÓD"/>
+  <key id="rear" value="TYŁ"/>
+  <key id="low" value="NISKO"/>
+  <key id="medium" value="ŚREDNIO"/>
+  <key id="high" value="WYSOKO"/>
 
   <!--CORE-->
-  <key id="input_locked" value="GRA JEST ZABLOKOWANA. WYŁĄCZ MENU MODYFIKACJI BY JĄ ODBLOKOWAĆ."/>
+  <key id="input_locked" value="STEROWANIE JEST ZABLOKOWANE KIEDY TO MENU JEST WŁĄCZONE"/>
   <key id="changes" value="LISTA ZMIAN"/>
   <key id="outdated0" value="TWOJA MODYFIKACJA JEST PRZESTARZAŁA, NAJNOWSZA WERSJA"/>
   <key id="outdated1" value="ZRESTARTUJ GRĘ ŻEBY AUTOMATYCZNIE ZAAKTUALIZOWAĆ MODYFIKACJE."/>
@@ -40,7 +49,7 @@
   <key id="about3" value="proszę, skontaktuj się z nami"/>
   <key id="about4" value="trbflxr#8814 lub John Sawyer#6915"/>
   <key id="about5" value="lub na discordzie modyfikacji"/>
-  <key id="about6" value="SUPPORTERS"/>
+  <key id="about6" value="Dziękuje wszystkim wspierającym"/>
   <key id="about8" value="Modyfikacja przetłumaczona przez:"/>
   <key id="about0v" value="Twoja wersja CarX jest nieznana"/>
   <key id="about1v" value="Zrestartuj grę żeby automatycznie zaaktualizować modyfikacje."/>
@@ -68,7 +77,7 @@
   <!--ENGINES-->
   <key id="swaps_engines" value="SILNIKI"/>
   <key id="swaps_turbo" value="TURBO"/>
-  <key id="swaps_fd" value="PRZEKŁADNIA GŁÓWNA"/>
+  <key id="swaps_fd" value="PRZEŁOŻENIE"/>
 
   <!--VISUALS-->
   <key id="zoom" value="PRZYBLIŻENIE"/>
@@ -92,6 +101,11 @@
   <key id="tl_brightness" value="JASNOŚĆ TYLNEGO REFLEKTORA"/>
   <key id="add_lights_all" value="DODAJ ŚWIATŁA DLA WSZYSTKICH"/>
   <key id="add_lights_to" value="DODAJ ŚWIATŁA DLA"/>
+  <key id="remove_all_lights" value="USUŃ WSZYSTKIE ŚWIATŁA"/>
+  <key id="dash_enabled" value="WŁĄCZ ŚWIATŁĄ MIJANIA"/>
+  <key id="dash_color" value="KOLOR ŚWIATEŁ MIJANIA"/>
+  <key id="hazard_lights" value="ŚWIATŁA AWARYJNE"/>
+  <key id="lights_quality" value="JAKOŚĆ ŚWIATEŁ"/>
 
   <!--WORLD LIGHTS-->
   <key id="fog" value="MGŁA"/>
@@ -102,4 +116,12 @@
   <key id="ambient" value="ŚWIATŁO OTOCZENIA"/>
   <key id="color_temp" value="TEMPERATURA BARWOWA"/>
   <key id="reset_all" value="ZRESETUJ WSZYSTKO"/>
+
+  <!--EXTRAS-->
+  <key id="f_tyre_pressure" value="CIŚNIENIE PRZEDNICH OPON"/>
+  <key id="r_tyre_pressure" value="CIŚNIENIE TYLNICH OPON"/>
+  <key id="reload_tag" value="PRZEŁADUJ TAG"/>
+  <key id="use_tag" value="UŻYJ TAGU"/>
+  <key id="tag_front" value="TAG PRZED NICKIEM"/>
+  <key id="tag_back" value="TAG PO NICKU"/>
 </locale>
