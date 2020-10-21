@@ -17,10 +17,10 @@
   <key id="disable" value="AUS"/>
   <key id="color" value="FARBE"/>
   <key id="red" value="ROT"/>
-  <key id="green" value="GR܎"/>
+  <key id="green" value="GRÜN"/>
   <key id="blue" value="BLAU"/>
   <key id="alpha" value="ALPHA"/>
-  <key id="close" value="SCHLIE߅N"/>
+  <key id="close" value="SCHLIEßEN"/>
   <key id="reload" value="NEU LADEN"/>
   <key id="front" value="VORNE"/>
   <key id="rear" value="HINTEN"/>
@@ -29,16 +29,16 @@
   <key id="high" value="HOCH"/>
 
   <!--CORE-->
-  <key id="input_locked" value="SPIELKONTROLLEN IST GESPERRT, WĈREND DER MOD-MENܠAN IST"/>
-  <key id="changes" value="ĎDERUNGSPROTOKOLL"/>
+  <key id="input_locked" value="SPIELKONTROLLEN IST GESPERRT, WÄHREND DER MOD-MENÜ AN IST"/>
+  <key id="changes" value="ÄNDERUNGSPROTOKOLL"/>
   <key id="outdated0" value="DEIN MOD IST VERALTET, LETZTE VERSION"/>
   <key id="outdated1" value="STARTE DAS SPIEL NEU DAMIT DER MOD AKTUALISIEREN WERDEN KANN."/>
-  <key id="outdated2" value="Fܒ MEHR INFOS UND UPDATES GEHE AUF UNSEREN DISCORD (CLICK)"/>
+  <key id="outdated2" value="FÜR MEHR INFOS UND UPDATES GEHE AUF UNSEREN DISCORD (CLICK)"/>
 
   <!--PICKERS-->
   <key id="cp_cars" value="AUTOS"/>
   <key id="cp_player" value="SPIELER AUTO"/>
-  <key id="cp_title" value="FARBWĈLER"/>
+  <key id="cp_title" value="FARBWÄHLER"/>
   <key id="fp_title" value="DATEIPICKER"/>
   <key id="fp_refresh" value="AKTUALISIERUNG"/>
 
@@ -64,14 +64,14 @@
   <key id="hide_points" value="PUNKTE AUSBLENDEN"/>
   <key id="hide_names" value="NAMEN AUSBLENDEN"/>
   <key id="backfire" value="CUSTOM BACKFIRE"/>
-  <key id="white_smoke" value="WEI߅R RAUCH Fܒ ALLE"/>
+  <key id="white_smoke" value="WEIßER RAUCH FÜR ALLE"/>
   <key id="sync_lights" value="SYNC LICHT"/>
   <key id="disable_consoles" value="KONSOLENKOLLISIONEN DEAKTIVIEREN"/>
   <key id="hide_consoles" value="KONSOLE-SPIELER VERSTECKEN"/>
   <key id="log_engines" value="MOTER WECHSELN"/>
 
   <!--EXHAUST-->
-  <key id="exh_volume" value="LAUT STĒKE"/>
+  <key id="exh_volume" value="LAUT STÄRKE"/>
   <key id="exh_max_time" value="WIE HINTEREINANDER"/>
 
   <!--ENGINES-->
@@ -85,7 +85,7 @@
   <key id="save_current" value="AKTUELLES DESIGN SPEICHERN"/>
   <key id="load_design" value="LADEDESIGN"/>
   <key id="apply_design" value="DESIGN ANWENDEN AUF"/>
-  <key id="add_livery" value="DESIGN HINZUF܇EN"/>
+  <key id="add_livery" value="DESIGN HINZUFÜGEN"/>
   <key id="restore_design" value="DESIGN WIEDERHERSTELLEN"/>
 
   <!--LIGHTS-->
@@ -96,16 +96,16 @@
   <key id="hl_left" value="LINKS SCHEINWERFER"/>
   <key id="hl_right" value="RECHTS SCHEINWERFERLICHT"/>
   <key id="hl_brightness" value="SCHEINWERFER HELLIGKEIT"/>
-  <key id="tl_left" value="LINKS R܃KLICHT"/>
-  <key id="tl_right" value="RECHTS R܃KLICHT"/>
-  <key id="tl_brightness" value="R܃KLICHT HELLIGKEIT"/>
-  <key id="add_lights_all" value="JEDEN LICHTER HINZUF܇EN"/>
-  <key id="add_lights_to" value="LICHTER HINZUF܇EN"/>
+  <key id="tl_left" value="LINKS RÜCKLICHT"/>
+  <key id="tl_right" value="RECHTS RÜCKLICHT"/>
+  <key id="tl_brightness" value="RÜCKLICHT HELLIGKEIT"/>
+  <key id="add_lights_all" value="JEDEN LICHTER HINZUFÜGEN"/>
+  <key id="add_lights_to" value="LICHTER HINZUFÜGEN"/>
   <key id="remove_all_lights" value="ENTFERNEN SIE ALLE LICHTER"/>
   <key id="dash_enabled" value="ARMATURENBELEUCHTUNG AN"/>
   <key id="dash_color" value="ARMATURENBELEUCHTUNG FARBE"/>
   <key id="hazard_lights" value="WARNLICHTER"/>
-  <key id="lights_quality" value="LICHTERQUALITĔ"/>
+  <key id="lights_quality" value="LICHTERQUALITÄT"/>
 
   <!--WORLD LIGHTS-->
   <key id="fog" value="NEBEL"/>
@@ -115,7 +115,7 @@
   <key id="sky_exposure" value="SKYBOX EXPOSITION"/>
   <key id="ambient" value="UMGEBUNGSLICHT"/>
   <key id="color_temp" value="FARBTEMPERATUR"/>
-  <key id="reset_all" value="ALLES ZUR܃KSETZEN"/>
+  <key id="reset_all" value="ALLES ZURÜCKSETZEN"/>
 
   <!--EXTRAS-->
   <key id="f_tire_pressure" value="REIFENDRUCK VORNE"/>
