@@ -74,4 +74,7 @@ KMD Ninja
 Zarroc
 Kacper  
 Touhuo  
-Helly
+Helly  
+Slice  
+MarkSVT  
+Ngeese
