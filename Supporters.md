@@ -81,4 +81,6 @@ Ngeese
 Dougert  
 KantugaBlya  
 Chris  
-Going2kilzu
+Going2kilzu  
+SyKoSuPeR  
+lockness86
