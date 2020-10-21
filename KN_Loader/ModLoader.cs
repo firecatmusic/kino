@@ -25,7 +25,7 @@ namespace KN_Loader {
     public List<string> Changelog { get; private set; }
     public List<string> PatchNotes { get; private set; }
 
-    public string LatestVersionString { get; }
+    public string LatestVersionString { get; private set; }
 
     public bool SaveUpdateLog { get; set; }
     public bool ForceUpdate { get; set; }
@@ -43,14 +43,7 @@ namespace KN_Loader {
       CheckVersion();
 #endif
 
-      LatestVersionString = $"{LatestVersion}.{LatestPatch}";
-      if (LatestVersionString.Length > 4) {
-        LatestVersionString = LatestVersionString.Insert(1, ".");
-        LatestVersionString = LatestVersionString.Insert(3, ".");
-      }
-      else {
-        LatestVersionString = "unknown";
-      }
+      UpdateVersion();
 
       Log.Write($"[KN_Loader]: Core status version: {ModVersion} / {LatestVersion}, patch: {Patch} / {LatestPatch}, " +
                 $"updater: {LatestUpdater}, update: {ForceUpdate}");
@@ -88,8 +81,11 @@ namespace KN_Loader {
 
         Log.Write("[KN_Loader]: Checking mod version ...");
         new Task(() => {
+#if !KN_DEV_TOOLS
           InitVersion();
           CheckVersion();
+#endif
+          UpdateVersion();
         }).Start();
       }
 
@@ -118,6 +114,17 @@ namespace KN_Loader {
       ShowUpdateWarn = LatestVersion != 0 && ModVersion != LatestVersion;
       ForceUpdate = LatestPatch != Patch || BadVersion || ShowUpdateWarn;
       NewPatch = LatestPatch != Patch && ModVersion == LatestVersion;
+    }
+
+    private void UpdateVersion() {
+      LatestVersionString = $"{LatestVersion}.{LatestPatch}";
+      if (LatestVersionString.Length > 4) {
+        LatestVersionString = LatestVersionString.Insert(1, ".");
+        LatestVersionString = LatestVersionString.Insert(3, ".");
+      }
+      else {
+        LatestVersionString = "unknown";
+      }
     }
   }
 }
