@@ -1,4 +1,5 @@
 using KN_Core;
+using KN_Loader;
 
 namespace KN_Cinematic {
   public class Cinematic : BaseMod {
@@ -10,10 +11,18 @@ namespace KN_Cinematic {
       SetInfoLink(HelpLink);
     }
 
-    private bool OnGui(Gui gui, float x, float y) {
-      if (gui.TextButton(ref x, ref y, Gui.Width, Gui.Height, "TEST", Skin.ButtonSkin.Normal)) {
+    public override void OnStart() { }
 
+    public override void OnStop() { }
+
+    public override void Update(int id) {
+      if (Controls.KeyDown("cinematic_mode")) {
+        Log.Write("TEST");
       }
+    }
+
+    private bool OnGui(Gui gui, float x, float y) {
+      if (gui.TextButton(ref x, ref y, Gui.Width, Gui.Height, "TEST", Skin.ButtonSkin.Normal)) { }
 
       return false;
     }

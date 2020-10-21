@@ -218,6 +218,15 @@ namespace KN_Core {
       }
     }
 
+    public void SelectMod(int modId) {
+      for (int i = 0; i < mods_.Count; ++i) {
+        if (mods_[i].Id == modId) {
+          selectedMod_ = i;
+          HandleModSelection();
+        }
+      }
+    }
+
     public void OnInit() {
       KnConfig.Read();
 
