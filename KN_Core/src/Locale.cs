@@ -6,7 +6,7 @@ using KN_Loader;
 namespace KN_Core {
 
   public static class Locale {
-    private const int NameSize = 11;
+    private const int NameSize = 18;
 
     public static readonly string[] ActiveLocales = {"en", "ru", "fr", "nl", "pl", "jp", "ita", "de", "zn"};
 
