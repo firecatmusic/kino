@@ -72,4 +72,5 @@ Leviathan
 Sin  
 KMD Ninja
 Zarroc
-Kacper
+Kacper  
+Touhuo
