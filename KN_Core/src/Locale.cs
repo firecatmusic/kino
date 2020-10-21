@@ -1,15 +1,9 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Xml;
 using KN_Loader;
 
 namespace KN_Core {
-  internal class NameData {
-    public string Name;
-    public int Size;
-  }
 
   public static class Locale {
     private const int NameSize = 11;
@@ -17,7 +11,6 @@ namespace KN_Core {
     public static readonly string[] ActiveLocales = {"en", "ru", "fr", "nl", "pl", "jp", "ita", "de", "zn"};
 
     public static List<string> Authors { get; private set; }
-    public static List<string> Supporters { get; private set; }
 
     public static string CurrentLocale { get; private set; }
 
@@ -34,17 +27,9 @@ namespace KN_Core {
       locales_ = new Dictionary<string, Dictionary<string, string>>();
 
       Authors = new List<string>();
-      Supporters = new List<string>();
 
       foreach (string l in ActiveLocales) {
         LoadLocale(l);
-      }
-
-      try {
-        LoadSupporters();
-      }
-      catch (Exception) {
-        // ignored
       }
 
       defaultLocale_ = locales_["en"];
@@ -145,70 +130,6 @@ namespace KN_Core {
         // ignored
       }
       return id;
-    }
-
-    private static void LoadSupporters() {
-      var stream = Embedded.LoadEmbeddedFile("supporters.xml");
-      if (stream == null) {
-        return;
-      }
-
-      var names = new List<NameData>();
-      using (var reader = XmlReader.Create(stream)) {
-        while (reader.Read()) {
-          if (reader.NodeType == XmlNodeType.Element) {
-            if (!reader.HasAttributes) {
-              continue;
-            }
-
-            string name = reader.GetAttribute("name");
-            if (string.IsNullOrEmpty(name)) {
-              continue;
-            }
-
-            string nameSizeStr = reader.GetAttribute("size");
-            int size = 0;
-            if (!string.IsNullOrEmpty(nameSizeStr)) {
-              int.TryParse(nameSizeStr, out size);
-            }
-
-            names.Add(new NameData {
-                Name = name,
-                Size = size
-              }
-            );
-          }
-        }
-      }
-
-      const int columns = 3;
-      const int add = 1;
-
-      int toAdd = names.Count % columns + add;
-      for (int i = 0; i < toAdd; ++i) {
-        names.Add(new NameData {Name = "", Size = 0});
-      }
-
-      for (int i = 0; i < names.Count; i += columns) {
-        string n0 = GetFormattedName(names[i]);
-        string n1 = GetFormattedName(names[i + 1]);
-        string n2 = GetFormattedName(names[i + 2]);
-
-        try {
-          Supporters.Add($"  | {n0} | {n1} | {n2} |");
-        }
-        catch (Exception) {
-          // ignored
-        }
-      }
-    }
-
-    private static string GetFormattedName(NameData data) {
-      string s = new string(' ', data.Size == 0 ? NameSize : data.Size);
-      var builder = new StringBuilder(s);
-      builder.Remove(0, data.Name.Length);
-      builder.Insert(0, data.Name);
-      return builder.ToString();
     }
   }
 }

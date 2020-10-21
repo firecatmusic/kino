@@ -218,6 +218,15 @@ namespace KN_Core {
       }
     }
 
+    public void SelectMod(int modId) {
+      for (int i = 0; i < mods_.Count; ++i) {
+        if (mods_[i].Id == modId) {
+          selectedMod_ = i;
+          HandleModSelection();
+        }
+      }
+    }
+
     public void OnInit() {
       KnConfig.Read();
 
@@ -573,10 +582,6 @@ namespace KN_Core {
     }
 
     private void HideNames() {
-      if (Controls.KeyDown("player_names")) {
-        Settings.HideNames = !Settings.HideNames;
-      }
-
       foreach (var car in CarPicker.Cars) {
         if (!KnCar.IsNull(car)) {
           car.Base.SetVisibleUIName(!Settings.HideNames);

@@ -1,10 +1,33 @@
-#if false
-using System.Collections.Generic;
 using KN_Core;
-using UnityEngine;
+using KN_Loader;
 
 namespace KN_Cinematic {
   public class Cinematic : BaseMod {
+    private const string HelpLink = "https://github.com/trbflxr/kino/blob/master/Help/Cinematic.md";
+
+    public Cinematic(Core core, int version, int patch, int clientVersion) : base(core, "cinematic", 2, version, patch, clientVersion) {
+      // SetIcon(Skin.CinematicSkin);
+      AddTab("cinematic", OnGui);
+      SetInfoLink(HelpLink);
+    }
+
+    public override void OnStart() { }
+
+    public override void OnStop() { }
+
+    public override void Update(int id) {
+      if (Controls.KeyDown("cinematic_mode")) {
+        Log.Write("TEST");
+      }
+    }
+
+    private bool OnGui(Gui gui, float x, float y) {
+      if (gui.TextButton(ref x, ref y, Gui.Width, Gui.Height, "TEST", Skin.ButtonSkin.Normal)) { }
+
+      return false;
+    }
+
+#if false
     private const string FreeCamTag = "kn_freecam";
     private const float EnableButtonOffset = Gui.Height + Gui.OffsetY;
 
@@ -691,6 +714,6 @@ namespace KN_Cinematic {
       ActiveCamera.GameObject.transform.rotation = transform.rotation;
     }
     #endregion
+#endif
   }
 }
-#endif
