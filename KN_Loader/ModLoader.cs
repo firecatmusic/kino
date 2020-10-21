@@ -23,6 +23,7 @@ namespace KN_Loader {
     public int LatestPatch { get; private set; }
     public int LatestUpdater { get; private set; }
     public List<string> Changelog { get; private set; }
+    public List<string> PatchNotes { get; private set; }
 
     public string LatestVersionString { get; }
 
@@ -109,6 +110,7 @@ namespace KN_Loader {
       LatestPatch = Version.GetPatch();
       LatestUpdater = Version.GetUpdaterVersion();
       Changelog = Version.GetChangelog();
+      PatchNotes = Version.GetPatchNotes();
     }
 
     private void CheckVersion() {

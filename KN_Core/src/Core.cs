@@ -388,8 +388,11 @@ namespace KN_Core {
 
       gui_.PreRender();
 
-      if (badVersion_ || newPatch_ || loader_.ShowUpdateWarn || loader_.NewPatch) {
-        GuiUpdateWarn();
+      if (loader_.ShowUpdateWarn || badVersion_) {
+        GuiUpdateWarn(false);
+      }
+      if (newPatch_ || loader_.NewPatch) {
+        GuiUpdateWarn(true);
       }
 
       float x = GuiStartX;
@@ -517,17 +520,19 @@ namespace KN_Core {
       }
     }
 
-    private void GuiUpdateWarn() {
+    private void GuiUpdateWarn(bool patch) {
       const float width = Gui.Width * 3.0f;
       float height = Gui.Height * 3.0f;
 
       float x = Screen.width / 2.0f - width / 2.0f;
       float y = Screen.height / 2.0f - height / 2.0f;
 
+      var container = patch ? loader_.PatchNotes : loader_.Changelog;
+
       string changelog = "";
-      if (loader_.Changelog != null) {
+      if (container.Count > 0) {
         changelog += $"{Locale.Get("changes")}:\n";
-        foreach (string line in loader_.Changelog) {
+        foreach (string line in container) {
           height += Gui.Height * 0.9f;
           changelog += $"- {line}\n";
         }

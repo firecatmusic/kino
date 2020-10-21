@@ -65,12 +65,45 @@ namespace KN_Loader {
         return null;
       }
 
-      var changelog = data_;
-      changelog.RemoveAt(0); // version
-      changelog.RemoveAt(0); // patch
-      changelog.RemoveAt(0); // updater
+      var changelog = new List<string>();
+
+      bool add = false;
+      foreach (string s in data_) {
+        if (s == "%UPDATE%") {
+          add = true;
+          continue;
+        }
+        if (s == "%PATCHNOTES%") {
+          add = false;
+          continue;
+        }
+        if (add) {
+          changelog.Add(s);
+        }
+      }
 
       return changelog;
+    }
+
+    public static List<string> GetPatchNotes() {
+      if (data_ == null || data_.Count <= (int) Line.Size) {
+        return null;
+      }
+
+      var patchNotes = new List<string>();
+
+      bool add = false;
+      foreach (string s in data_) {
+        if (s == "%PATCHNOTES%") {
+          add = true;
+          continue;
+        }
+        if (add) {
+          patchNotes.Add(s);
+        }
+      }
+
+      return patchNotes;
     }
   }
 }
