@@ -30,20 +30,26 @@ namespace KN_Updater {
 
       Log.Init();
 
-      version_ = args[0];
-      Log.Write($"Current version: {version_}");
+      try {
+        version_ = args[0];
+        Log.Write($"Current version: {version_}");
 
-      if (core123) {
-        string exeFilePath = Assembly.GetExecutingAssembly().Location;
-        string workPath = Path.GetDirectoryName(exeFilePath);
+        if (core123) {
+          string exeFilePath = Assembly.GetExecutingAssembly().Location;
+          string workPath = Path.GetDirectoryName(exeFilePath);
 
-        modPath_ = workPath;
+          modPath_ = workPath;
+        }
+        else {
+          modPath_ = args[1];
+          Log.Write($"Mod path: {modPath_}");
+
+          saveLog_ = Convert.ToBoolean(args[2]);
+        }
       }
-      else {
-        modPath_ = args[1];
-        Log.Write($"Mod path: {modPath_}");
-
-        saveLog_ = Convert.ToBoolean(args[2]);
+      catch (Exception e) {
+        Log.Write($"Failed to parse args, {e.Message}");
+        SaveLog();
       }
 
       var updater = new Updater();

@@ -7,13 +7,13 @@ namespace KN_Loader {
   public static class Updater {
     private static readonly string UpdaterPath = Path.GetTempPath() + Path.DirectorySeparatorChar + "KN_Updater.exe";
 
-    public static void StartUpdater(int latestUpdater, bool forceUpdate, bool dev, bool checkUpdater) {
+    public static void StartUpdater(int latestUpdater, bool forceUpdate, bool dev, bool saveLog, bool checkUpdater) {
       if (forceUpdate && !checkUpdater) {
         CheckForNewUpdater(latestUpdater);
       }
 
       string version = forceUpdate ? "0.0.0" : ModLoader.StringVersion;
-      string args = $"{version} \"{(dev ? Paths.GameRootPath + Path.DirectorySeparatorChar + "KnUpdate" : Paths.PluginPath)}\" {dev}";
+      string args = $"{version} \"{(dev ? Paths.GameRootPath + Path.DirectorySeparatorChar + "KnUpdate" : Paths.PluginPath)}\" {saveLog}";
 
       Log.Write($"[KN_Loader::Updater]: Starting updater args: {args}");
       var proc = Process.Start(UpdaterPath, args);

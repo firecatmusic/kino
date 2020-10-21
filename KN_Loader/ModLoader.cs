@@ -70,7 +70,7 @@ namespace KN_Loader {
     }
 
     private void OnDestroy() {
-      Updater.StartUpdater(LatestUpdater, ForceUpdate, DevMode, false);
+      Updater.StartUpdater(LatestUpdater, ForceUpdate, DevMode, SaveUpdateLog, false);
 
       Core?.OnDeinit();
     }
