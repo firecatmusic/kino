@@ -90,4 +90,5 @@ Bengi
 Rewerb  
 DoGe  
 Jenny
-XIBID
+XIBID  
+Kurizu
