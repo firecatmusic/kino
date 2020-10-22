@@ -140,7 +140,7 @@ def main():
         os.path.join(current_dir, '..', 'KN_Loader', 'ModLoader.cs'),
         os.path.join(current_dir, '..', 'KN_Lights', 'Loader.cs'),
         os.path.join(current_dir, '..', 'KN_Maps', 'Loader.cs'),
-        os.path.join(current_dir, '..', 'KN_Visuals', 'Loader.cs')
+        os.path.join(current_dir, '..', 'KN_Visuals', 'Loader.cs'),
         os.path.join(current_dir, '..', 'KN_Cinematic', 'Loader.cs')
     ]
 
@@ -149,7 +149,7 @@ def main():
         os.path.join(current_dir, '..', 'KN_Core', 'Properties', 'AssemblyInfo.cs'),
         os.path.join(current_dir, '..', 'KN_Lights', 'Properties', 'AssemblyInfo.cs'),
         os.path.join(current_dir, '..', 'KN_Maps', 'Properties', 'AssemblyInfo.cs'),
-        os.path.join(current_dir, '..', 'KN_Visuals', 'Properties', 'AssemblyInfo.cs')
+        os.path.join(current_dir, '..', 'KN_Visuals', 'Properties', 'AssemblyInfo.cs'),
         os.path.join(current_dir, '..', 'KN_Cinematic', 'Properties', 'AssemblyInfo.cs')
     ]
 
