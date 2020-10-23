@@ -128,4 +128,7 @@ Jcas
 sxzvs  
 Apelsinas  
 Blunta  
-dorianekkxd
+dorianekkxd  
+the real takumi  
+Shizue  
+Wahzy
