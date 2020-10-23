@@ -131,4 +131,5 @@ Blunta
 dorianekkxd  
 the real takumi  
 Shizue  
-Wahzy
+Wahzy  
+Killer2v
