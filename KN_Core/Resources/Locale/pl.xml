@@ -24,9 +24,9 @@
   <key id="reload" value="PRZEŁADUJ"/>
   <key id="front" value="PRZÓD"/>
   <key id="rear" value="TYŁ"/>
-  <key id="low" value="NISKO"/>
-  <key id="medium" value="ŚREDNIO"/>
-  <key id="high" value="WYSOKO"/>
+  <key id="low" value="NISKI"/>
+  <key id="medium" value="ŚREDNI"/>
+  <key id="high" value="WYSOKI"/>
 
   <!--CORE-->
   <key id="input_locked" value="STEROWANIE JEST ZABLOKOWANE KIEDY TO MENU JEST WŁĄCZONE"/>
@@ -102,8 +102,8 @@
   <key id="add_lights_all" value="DODAJ ŚWIATŁA DLA WSZYSTKICH"/>
   <key id="add_lights_to" value="DODAJ ŚWIATŁA DLA"/>
   <key id="remove_all_lights" value="USUŃ WSZYSTKIE ŚWIATŁA"/>
-  <key id="dash_enabled" value="WŁĄCZ ŚWIATŁĄ MIJANIA"/>
-  <key id="dash_color" value="KOLOR ŚWIATEŁ MIJANIA"/>
+  <key id="dash_enabled" value="WŁĄCZ ŚWIATŁO DESKI ROZDZIELCZEJ"/>
+  <key id="dash_color" value="KOLOR ŚWIATŁA DESKI ROZDZIELCZEJ"/>
   <key id="hazard_lights" value="ŚWIATŁA AWARYJNE"/>
   <key id="lights_quality" value="JAKOŚĆ ŚWIATEŁ"/>
 
