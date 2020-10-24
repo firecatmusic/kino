@@ -142,4 +142,5 @@ Derrick1901
 zaque  
 koza  
 foixe  
-Araya Kira
+Araya Kira  
+njoyer
