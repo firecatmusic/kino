@@ -140,4 +140,6 @@ Nawax
 JakenBake  
 Derrick1901  
 zaque  
-koza
+koza  
+foixe  
+Araya Kira
