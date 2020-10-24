@@ -133,4 +133,6 @@ the real takumi
 Shizue  
 Wahzy  
 Killer2v  
-bexley
+bexley  
+creepz  
+silagxd
