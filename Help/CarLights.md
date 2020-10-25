@@ -10,5 +10,7 @@ Lights are pre-configured for all the cars, however depending on the bodykit you
 
 **ADD LIGHTS TO EVERYONE** works as a toggle and will automatically add lights to every player in the lobby. The lights settings of the mod users are synced so all the changes they do to their light brightness, color or position will be seen on your screen as well.
 
+**LIGHTS QUALITY** has two options: low and medium. This option affects lights illumination. On ***low*** setting illumination will only work on your car while on ***medium*** it will also work on cars of other players.
+
 **HAZARD LIGHTS** enables the hazards, you can change their options in the ***HAZARD LIGHTS*** tab.
 ![Hazards](../Images/hazard_lights.png)
