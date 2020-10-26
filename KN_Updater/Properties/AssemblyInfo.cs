@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Updater for KiNO mod")]
 [assembly: AssemblyDescription("Needed to automatically update KiNO mod")]
 [assembly: AssemblyConfiguration("Release")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("KiNO")]
 [assembly: AssemblyProduct("KN_Updater")]
 [assembly: AssemblyCopyright("Copyright © trbflxr 2020")]
 [assembly: AssemblyTrademark("KiNO")]
