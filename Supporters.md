@@ -160,4 +160,6 @@ Rosa Percs
 Bapt  
 Masu  
 Sayonara  
-Scrim
+Scrim  
+Darkotaz  
+Suzuya
