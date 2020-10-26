@@ -7,7 +7,7 @@ namespace KN_Lights {
   public class HazardLights : ISerializable {
     public const float DefaultBrightness = 10.0f;
     public const float DefaultRange = 1.0f;
-    private const float HazardToggleTime = 0.85f;
+    private const float HazardToggleTime = 0.45f;
 
     private static readonly int BaseColorMap = Shader.PropertyToID("_BaseColorMap");
 
