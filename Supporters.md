@@ -174,4 +174,6 @@ Papa Trump
 Nerxxy  
 Habibbex  
 RayRay  
-Weazy
+Weazy  
+FroggyCola  
+Boogaflu
