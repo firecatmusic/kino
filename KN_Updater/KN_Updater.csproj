@@ -5,7 +5,7 @@
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
         <ProjectGuid>{066B59BA-5801-4709-8D0F-C6A65AFBB967}</ProjectGuid>
-        <OutputType>WinExe</OutputType>
+        <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>KN_Updater</RootNamespace>
         <AssemblyName>KN_Updater</AssemblyName>
