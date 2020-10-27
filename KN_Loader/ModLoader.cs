@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.IO;
 using System.Threading.Tasks;
 using BepInEx;
 using UnityEngine;
@@ -38,6 +39,11 @@ namespace KN_Loader {
     private float updateTimer_;
 
     public ModLoader() {
+      if (!File.Exists(Paths.PluginPath + Path.DirectorySeparatorChar + "KN_Updater.dll")) {
+        Log.Write("[KN_Loader]: Unable to locate KN_Updater.dll");
+        return;
+      }
+
 #if !KN_DEV_TOOLS
       InitVersion();
       CheckVersion();

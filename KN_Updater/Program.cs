@@ -3,30 +3,20 @@ using System.IO;
 using System.Reflection;
 
 namespace KN_Updater {
-  internal static class Program {
+  public static class Program {
     private const int Version = 03;
 
     private static string version_ = "0.0.0";
     private static string modPath_ = "";
     private static bool saveLog_;
 
-    public static void Main(string[] args) {
+    private static readonly string UpdaterVersionPath = Path.GetTempPath() + Path.DirectorySeparatorChar + "KN_UpdaterVersion.txt";
+
+    public static void Update(string[] args) {
       const string octokit = "KN_Updater.Data.Octokit.dll";
       Embedded.Load(octokit, "Octokit.dll");
 
       AppDomain.CurrentDomain.AssemblyResolve += AssemblyResolve;
-
-      bool core123 = false;
-      if (args.Length < 3) {
-        core123 = bool.TryParse(args[1], out bool dummy);
-
-        if (!core123) {
-          Console.WriteLine($"Updater version: {Version}");
-          Environment.Exit(Version);
-          return;
-        }
-        Console.WriteLine("Running on old v123 core");
-      }
 
       Log.Init();
 
@@ -34,18 +24,10 @@ namespace KN_Updater {
         version_ = args[0];
         Log.Write($"Current version: {version_}");
 
-        if (core123) {
-          string exeFilePath = Assembly.GetExecutingAssembly().Location;
-          string workPath = Path.GetDirectoryName(exeFilePath);
+        modPath_ = args[1];
+        Log.Write($"Mod path: {modPath_}");
 
-          modPath_ = workPath;
-        }
-        else {
-          modPath_ = args[1];
-          Log.Write($"Mod path: {modPath_}");
-
-          saveLog_ = Convert.ToBoolean(args[2]);
-        }
+        saveLog_ = Convert.ToBoolean(args[2]);
       }
       catch (Exception e) {
         Log.Write($"Failed to parse args, {e.Message}");
@@ -68,6 +50,16 @@ namespace KN_Updater {
       updater.Run(modPath_);
 
       SaveLog();
+    }
+
+    public static void GetVersion() {
+      Console.WriteLine($"Updater version: {Version}");
+      try {
+        File.WriteAllText(UpdaterVersionPath, $"{Version}");
+      }
+      catch (Exception e) {
+        Console.WriteLine($"Failed to write version, {e}");
+      }
     }
 
     private static void SaveLog() {
