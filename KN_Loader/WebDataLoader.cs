@@ -38,7 +38,7 @@ namespace KN_Loader {
     }
 
     public static byte[] DownloadNewUpdater() {
-      const string updaterUrl = "https://github.com/trbflxr/kino/raw/master/Updater/KN_Updater.exe";
+      const string updaterUrl = "https://github.com/trbflxr/kino/raw/master/Updater/KN_Updater.dll";
 
       Log.Write($"[KN_Loader::WebLoader]: Downloading new updater from '{updaterUrl}'");
 
