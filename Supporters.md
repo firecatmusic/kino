@@ -177,4 +177,6 @@ RayRay
 Weazy  
 FroggyCola  
 Boogaflu  
-jhocurci
+jhocurci  
+bearwrld  
+HazerBlazer
