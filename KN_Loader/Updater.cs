@@ -36,12 +36,17 @@ namespace KN_Loader {
     public static void CheckForNewUpdater(int latestUpdater) {
       bool shouldDownload = true;
 
-      int version = GetUpdaterVersion();
-      if (version == latestUpdater) {
-        shouldDownload = false;
+      if (!File.Exists(UpdaterPath)) {
+        Log.Write($"[KN_Loader::Updater]: Failed to locate updater.");
       }
+      else {
+        int version = GetUpdaterVersion();
+        if (version == latestUpdater) {
+          shouldDownload = false;
+        }
 
-      Log.Write($"[KN_Loader::Updater]: Updater version: C: {version} / L: {latestUpdater}, download: {shouldDownload}");
+        Log.Write($"[KN_Loader::Updater]: Updater version: C: {version} / L: {latestUpdater}, download: {shouldDownload}");
+      }
 
       if (shouldDownload) {
         DownloadNewUpdater(UpdaterPath);
