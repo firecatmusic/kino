@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace KN_Updater {
   public static class Program {
-    private const int Version = 03;
+    private const int Version = 04;
 
     private static string version_ = "0.0.0";
     private static string modPath_ = "";
