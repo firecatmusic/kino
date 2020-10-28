@@ -11,10 +11,10 @@ using Object = UnityEngine.Object;
 
 namespace KN_Core {
   public class Core : ICore {
-    public const int Version = 200;
-    public const int Patch = 4;
+    public const int Version = 201;
+    public const int Patch = 0;
     public const int ClientVersion = 273;
-    public const string StringVersion = "2.0.0";
+    public const string StringVersion = "2.0.1";
 
     public const float GuiStartX = 25.0f;
     public const float GuiStartY = 25.0f;

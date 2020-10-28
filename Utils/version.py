@@ -1,6 +1,6 @@
-version = ['2', '0', '0']
-patch = '4'
-updater = '03'
+version = ['2', '0', '1']
+patch = '0'
+updater = '04'
 client_version = ['2', '7', '3']
 
 version_int = ''.join(version)

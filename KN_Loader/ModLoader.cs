@@ -8,9 +8,9 @@ namespace KN_Loader {
   [BepInPlugin("1trbflxr.0kn_loader", "KN_Loader", StringVersion)]
   public class ModLoader : BaseUnityPlugin {
     public const int ClientVersion = 273;
-    public const int ModVersion = 200;
-    public const int Patch = 4;
-    public const string StringVersion = "2.0.0";
+    public const int ModVersion = 201;
+    public const int Patch = 0;
+    public const string StringVersion = "2.0.1";
 
     private const float UpdateCheckTime = 600.0f;
 
@@ -41,7 +41,6 @@ namespace KN_Loader {
     public ModLoader() {
       if (!File.Exists(Paths.PluginPath + Path.DirectorySeparatorChar + "KN_Updater.dll")) {
         Log.Write("[KN_Loader]: Unable to locate KN_Updater.dll");
-        return;
       }
 
 #if !KN_DEV_TOOLS
