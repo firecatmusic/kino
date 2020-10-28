@@ -1,5 +1,5 @@
 Version=201
-Patch=0
+Patch=1
 Updater=04
 %UPDATE%
 Added Turkish localization
@@ -7,3 +7,5 @@ Switched Updater.exe to Updater.dll to (hopefully) avoid false positive from Win
 Added 4G63 and M156E63 engines
 Improved headlights mask
 Changed hazards blink timing
+%PATCHNOTES%
+Fixed powershell prompt
