@@ -104,7 +104,11 @@ namespace KN_Loader {
 
       var startInfo = new ProcessStartInfo {
         FileName = "powershell.exe",
+#if KN_DEV || KN_DEV_TOOLS
+        Arguments = $"-NoProfile -ExecutionPolicy unrestricted  -file \"{ScriptPath}\"",
+#else
         Arguments = $"-NoProfile -ExecutionPolicy unrestricted -windowstyle hidden -file \"{ScriptPath}\"",
+#endif
         UseShellExecute = false,
         WindowStyle = ProcessWindowStyle.Hidden
       };

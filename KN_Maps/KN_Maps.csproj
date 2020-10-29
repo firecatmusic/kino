@@ -36,6 +36,11 @@
       <DefineConstants>TRACE;KN_DEV_TOOLS</DefineConstants>
       <Optimize>true</Optimize>
     </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release_Dev|AnyCPU' ">
+      <DefineConstants>TRACE;KN_DEV</DefineConstants>
+      <Optimize>true</Optimize>
+      <OutputPath>bin\Release_Dev\</OutputPath>
+    </PropertyGroup>
     <ItemGroup>
         <Reference Include="0Harmony, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
           <HintPath>..\Dependencies\BepInEx\0Harmony.dll</HintPath>
