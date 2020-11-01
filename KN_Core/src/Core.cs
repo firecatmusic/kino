@@ -569,7 +569,7 @@ namespace KN_Core {
         }
       }
 
-#if KN_DEV_TOOLS
+#if KN_DEV
       if (Input.GetKeyDown(KeyCode.H)) {
         gui_.RenderWhiteBg = !gui_.RenderWhiteBg;
       }
