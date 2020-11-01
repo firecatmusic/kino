@@ -210,4 +210,7 @@ Triggered
 Quintessa  
 Kuroko  
 dick  
-Nutty
+Nutty  
+TheInsaneProff  
+DustinClemans  
+Kaneki
