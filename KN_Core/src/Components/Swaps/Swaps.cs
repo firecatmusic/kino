@@ -306,8 +306,7 @@ namespace KN_Core {
         finalDrive = engine.FinalDrive;
       }
 
-      var nwData = new SmartfoxDataPackage(PacketId.Subroom);
-      nwData.Add("1", (byte) 25);
+      var nwData = Udp.MakePackage();
       nwData.Add("type", Udp.TypeSwaps);
       nwData.Add("id", id);
       nwData.Add("ei", engineId);

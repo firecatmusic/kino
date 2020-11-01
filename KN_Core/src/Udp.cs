@@ -50,6 +50,10 @@ namespace KN_Core {
       }
     }
 
+    public static SmartfoxDataPackage MakePackage() {
+      return new SmartfoxDataPackage(PacketId.Chat);
+    }
+    
     public void Send(SmartfoxDataPackage data) {
       if (Client != null) {
         Client.Send(data.ToDataPackage(), true);
