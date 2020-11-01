@@ -206,4 +206,6 @@ Nyaname
 kamahele  
 Volk_  
 Wubist  
-Triggered
+Triggered  
+Quintessa  
+Kuroko
