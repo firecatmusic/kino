@@ -226,6 +226,7 @@ namespace KN_Core {
 
       defaultParams_["use_tag"] = true;
       defaultParams_["tag_front"] = true;
+      defaultParams_["collision_manager"] = true;
 
       // air
       defaultParams_["air_use_controlKey"] = true;
