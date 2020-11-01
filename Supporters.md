@@ -209,4 +209,5 @@ Wubist
 Triggered  
 Quintessa  
 Kuroko  
-dick
+dick  
+Nutty
