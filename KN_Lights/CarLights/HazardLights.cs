@@ -414,8 +414,7 @@ namespace KN_Lights {
     }
 
     public void Send(int id, Udp udp) {
-      var data = new SmartfoxDataPackage(PacketId.Subroom);
-      data.Add("1", (byte) 25);
+      var data = Udp.MakePackage();
       data.Add("type", Udp.TypeHazard);
 
       data.Add("id", id);
