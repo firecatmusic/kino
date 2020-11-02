@@ -26,7 +26,6 @@ An extra module that is given as a "thanks you" to players who supported the mod
 
 ### How to use
 Press F4 to bring up the menu.  
-F3 to hide the nicknames.  
 PG UP to enable hazard lights.  
 PG DN to enable headlights.
 
