@@ -9,7 +9,7 @@ Extract the following files from **BepInEx_%os%_%version%.zip** into your `CarX 
 Put the **.dll** files from the **release_%version%.zip** inside:   
 `CarX Drift Racing Online\BepInEx\plugins`
 If you don't have the `plugins` folder inside the `BepInEx` then either create it yourself or start the game for it to be created automatically.  
-1. A short description of the feature can be found [here](README.md).
+1. A short description of the features can be found [here](README.md).
 ## Русский:
 1. Установите [BepInEx mod loader](https://github.com/BepInEx/BepInEx/releases), если ещё не установлен.  
 Для этого скачайте версию на основании разрядности Вашей **Windows** (**х64** для **64-ех битных систем** и **х86** для **32-ух битных**)  
