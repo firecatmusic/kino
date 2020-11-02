@@ -12,7 +12,7 @@ If you don't have the `plugins` folder inside the `BepInEx` then either create i
 1. A short description of the features can be found [here](README.md).
 ## Русский:
 1. Установите [BepInEx mod loader](https://github.com/BepInEx/BepInEx/releases), если ещё не установлен.  
-Для этого скачайте версию на основании разрядности Вашей **Windows** (**х64** для **64-ех битных систем** и **х86** для **32-ух битных**)  
+Для этого скачайте версию на основании разрядности Вашей **Windows** (**х64** для **64-ех битных систем** и **х86** для **32-ух битных**). Не скачивайте **Unix** версию.  
 Распакуйте следующие файлы из **BepInEx_%os%_%version%.zip** в папку игры `CarX Drift Racing Online`:  
 **|** BepInEx  
 **|** doorstep_config.ini  
