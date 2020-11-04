@@ -226,4 +226,6 @@ xZeno
 Devstor  
 ERMACttv  
 astrobeat  
-Vergillo
+Vergillo  
+sixuzu  
+gale
