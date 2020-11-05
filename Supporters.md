@@ -232,4 +232,6 @@ gale
 TuhoojaTuukka  
 JustiN  
 Yodds  
-haakishd
+haakishd  
+Tippy  
+ZinAryane
