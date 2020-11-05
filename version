@@ -1,6 +1,8 @@
 Version=202
-Patch=0
+Patch=1
 Updater=04
 %UPDATE%
 Fixed mod compatibility with XDS
 %PATCHNOTES%
+Fixed data synchronization
+Fixed BepInEx console hiding on startup
