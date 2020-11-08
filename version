@@ -1,6 +1,7 @@
 Version=202
 Patch=1
 Updater=04
+Client=273
 %UPDATE%
 Fixed mod compatibility with XDS
 %PATCHNOTES%
