@@ -248,4 +248,5 @@ Kjuts
 Sachilus  
 AyKayAy  
 DigitalVessel  
-papi
+papi  
+CLUTCH_KICK
