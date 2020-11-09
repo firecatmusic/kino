@@ -252,4 +252,6 @@ papi
 CLUTCH_KICK  
 SwisEnglishBoi  
 savkat420  
-Snaykie
+Snaykie  
+aproto  
+Jamaru
