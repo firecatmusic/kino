@@ -258,4 +258,7 @@ Jamaru
 COLBY  
 LknStoner  
 Doggo  
-r30
+r30  
+THXO  
+Loopy  
+smoop
