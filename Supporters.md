@@ -265,4 +265,5 @@ Loopy
 smoop  
 mailo  
 stacy  
-Demiidos
+Demiidos  
+StaticMSP
