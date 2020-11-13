@@ -235,7 +235,7 @@ JustiN
 Yodds  
 haakishd  
 Tippy  
-ZinAryane  
+ZynAryane  
 Nozaki  
 hrox  
 FluffyGuy  
