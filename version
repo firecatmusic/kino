@@ -1,9 +1,11 @@
-Version=202
-Patch=1
-Updater=04
+Version=210
+Patch=0
+Updater=05
 Client=273
 %UPDATE%
-Fixed mod compatibility with XDS
+The mod has been completely reworked to improve performance. 
+All the modules are now in one file.
+Fixed sound issues with the swaps. 
+Reworked application of backfire and lights (as well as hazards).
+This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
-Fixed data synchronization
-Fixed BepInEx console hiding on startup
