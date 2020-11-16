@@ -8,8 +8,6 @@ You can change the mod language here. Currently avaliable languages are ***eng, 
 
 **HIDE NAMES** hides the nicknames of other players (a bit buggy).
 
-**CUSTOM BACKFIRE** (enabled by default) adds a custom backfire to your exhaust. You can adjust the ***sound volume*** and the ***duration time*** with **VOLUME** and **MAX TIME** sliders.
-
 **FORCE WHITE SMOKE TO ALL** makes the smoke of all players white if you're getting annoyed by the colored smoke.
 
 **DISABLE CONSOLE COLLISIONS** will disable collisions with console players.
