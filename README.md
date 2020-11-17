@@ -1,7 +1,7 @@
 ![LOGO](Images/logo.png)
 #
 [![Releases](https://img.shields.io/github/v/release/trbflxr/kino?include_prereleases&label=DOWNLOAD&style=for-the-badge)](https://github.com/trbflxr/kino/releases) 
-[![KiNO Discord](https://img.shields.io/discord/716264804498538516?label=DISCORD&style=for-the-badge)](https://discord.gg/8z6HAA3)
+[![KiNO Discord](https://img.shields.io/discord/716264804498538516?label=DISCORD&style=for-the-badge)](https://discord.gg/xvGMEEcEEp)
 [![donation](https://img.shields.io/badge/paypal-donate-blue?style=for-the-badge&link=http://paypal.me/karinkirill)](http://paypal.me/karinkirill)
 ### Required: [BepInEx mod loader](https://github.com/BepInEx/BepInEx/releases)
 ## About
