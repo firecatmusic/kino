@@ -7,7 +7,6 @@ The mod has been completely reworked to improve performance.
 All the modules are now in one file.
 Fixed sound issues with the swaps. 
 Reworked application of backfire and lights (as well as hazards).
+Fixed https errors.
 This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
-Fixed crash when engine swap set
-Fixed mod loading error
