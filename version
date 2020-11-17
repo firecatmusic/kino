@@ -1,5 +1,5 @@
 Version=211
-Patch=2
+Patch=3
 Updater=06
 Client=273
 %UPDATE%
@@ -10,3 +10,4 @@ Reworked application of backfire and lights (as well as hazards).
 This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
 Fixed crash when engine swap set
+Fixed mod loading error
