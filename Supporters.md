@@ -287,4 +287,6 @@ SuBSiL3NCE
 Mxngo  
 marius  
 DR1FT_K!NG  
-waffles
+waffles  
+DiGiTaL DOPE  
+knytmares
