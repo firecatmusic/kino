@@ -1,5 +1,5 @@
 Version=212
-Patch=2
+Patch=3
 Updater=07
 Client=273
 %UPDATE%
@@ -13,3 +13,4 @@ This update doesn't support the 2.8.0 PTR update.
 Added BepinEx 5.4 lts support
 Returned the swap sound reload button
 Fixed modded lobby join
+Fixed extras ui
