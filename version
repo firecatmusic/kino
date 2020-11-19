@@ -1,5 +1,5 @@
 Version=212
-Patch=1
+Patch=2
 Updater=07
 Client=273
 %UPDATE%
@@ -11,3 +11,5 @@ Fixed https errors.
 This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
 Added BepinEx 5.4 lts support
+Returned the swap sound reload button
+Fixed modded loby join
