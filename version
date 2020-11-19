@@ -1,5 +1,5 @@
 Version=212
-Patch=0
+Patch=1
 Updater=07
 Client=273
 %UPDATE%
@@ -10,3 +10,4 @@ Reworked application of backfire and lights (as well as hazards).
 Fixed https errors.
 This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
+Added BepinEx 5.4 lts support
