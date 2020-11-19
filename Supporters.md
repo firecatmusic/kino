@@ -292,4 +292,5 @@ DiGiTaL DOPE
 knytmares  
 ArcY  
 Roller  
-Qwestrr
+Qwestrr  
+Loïc
