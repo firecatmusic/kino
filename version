@@ -12,4 +12,4 @@ This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
 Added BepinEx 5.4 lts support
 Returned the swap sound reload button
-Fixed modded loby join
+Fixed modded lobby join
