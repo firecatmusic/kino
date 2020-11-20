@@ -18,6 +18,7 @@ Zaiikgo
 SkyeBuru  
 EUROBEAT  
 Ellss  
+FallenAngel  
 Holt92  
 Yashi  
 Goosiest  
@@ -298,4 +299,5 @@ Shaquille_oatmeal
 Byczq  
 MikeyK  
 Creature  
-Speedy_PT-xx
+Speedy_PT-xx  
+DEADEYE
