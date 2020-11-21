@@ -1,5 +1,5 @@
 Version=212
-Patch=4
+Patch=5
 Updater=07
 Client=273
 %UPDATE%
@@ -12,6 +12,7 @@ Returned the swap sound reload button.
 Fixed https errors.
 Fixed modded lobby join.
 Fixed extras ui.
+Fixed mod update message on pre-patch.
 This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
-Fixed mod update message on pre-patch
+Added update message
