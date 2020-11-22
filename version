@@ -1,6 +1,6 @@
 Version=212
-Patch=10
-Updater=07
+Patch=11
+Updater=10
 Client=273
 %UPDATE%
 The mod has been completely reworked to improve performance. 
@@ -16,4 +16,4 @@ Fixed mod update message on pre-patch.
 Added update message.
 This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
-Fixed update message
+Added new updater
