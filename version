@@ -1,5 +1,5 @@
 Version=212
-Patch=5
+Patch=6
 Updater=07
 Client=273
 %UPDATE%
@@ -13,6 +13,7 @@ Fixed https errors.
 Fixed modded lobby join.
 Fixed extras ui.
 Fixed mod update message on pre-patch.
+Added update message.
 This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
-Added update message
+Fixed update message
