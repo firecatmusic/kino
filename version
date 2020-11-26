@@ -1,20 +1,11 @@
-Version=212
-Patch=12
+Version=213
+Patch=0
 Updater=10
 Client=273
 %UPDATE%
-The mod has been completely reworked to improve performance. 
-All the modules are now in one file.
-Fixed sound issues with the swaps. 
-Reworked application of backfire and lights (as well as hazards).
-Added BepinEx 5.4 lts support.
-Returned the swap sound reload button.
-Fixed https errors.
-Fixed modded lobby join.
-Fixed extras ui.
-Fixed mod update message on pre-patch.
-Added new updater.
-Added update message.
+Fixed livery applying feature.
+Added hazards blink interval.
+Added ability to disable unwanted modules (settings tab).
+Small mod optimizations.
 This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
-Little updater fix
