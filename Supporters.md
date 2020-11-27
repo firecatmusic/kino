@@ -314,4 +314,6 @@ DatHash420
 viajarsinverpr  
 Vincino  
 Kohga  
-Penguin_09
+Penguin_09  
+yoro･ᴗ･  
+Mugen
