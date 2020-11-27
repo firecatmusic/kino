@@ -1,11 +1,10 @@
 Version=213
 Patch=0
 Updater=10
-Client=273
+Client=280
 %UPDATE%
 Fixed livery applying feature.
 Added hazards blink interval.
 Added ability to disable unwanted modules (settings tab).
 Small mod optimizations.
-This update doesn't support the 2.8.0 PTR update.
 %PATCHNOTES%
