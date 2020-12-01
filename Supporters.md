@@ -335,4 +335,5 @@ Kamalu808
 BoostyLeRetour  
 Alan-BTW  
 Underscore  
-Sukas Lurvila
+Sukas Lurvila  
+DuelFreak
