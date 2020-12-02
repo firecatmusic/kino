@@ -340,4 +340,5 @@ DuelFreak
 Qc_TombePas  
 KancetPortugalai  
 notfamous  
-mink
+mink  
+товарищ
