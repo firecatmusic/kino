@@ -1,5 +1,5 @@
 Version=213
-Patch=2
+Patch=3
 Updater=10
 Client=281
 %UPDATE%
@@ -8,3 +8,4 @@ Added hazards blink interval.
 Added ability to disable unwanted modules (settings tab).
 Small mod optimizations.
 %PATCHNOTES%
+Fixed lights crash
