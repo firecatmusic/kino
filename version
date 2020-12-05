@@ -1,5 +1,5 @@
 Version=213
-Patch=3
+Patch=4
 Updater=10
 Client=281
 %UPDATE%
@@ -9,3 +9,4 @@ Added ability to disable unwanted modules (settings tab).
 Small mod optimizations.
 %PATCHNOTES%
 Fixed lights crash
+Removed ambient light slider for night maps
