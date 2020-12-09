@@ -1,12 +1,10 @@
-Version=213
-Patch=4
+Version=214
+Patch=0
 Updater=11
 Client=281
 %UPDATE%
-Fixed livery applying feature.
-Added hazards blink interval.
-Added ability to disable unwanted modules (settings tab).
-Small mod optimizations.
+Added tune sharing feature
+Added controls for CarX lights, along with toggle syncronization.
+Added ability to disable camera rotation in the garage
+Added swaps for new cars
 %PATCHNOTES%
-Fixed lights crash
-Removed ambient light slider for night maps
