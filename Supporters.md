@@ -390,4 +390,6 @@ Kyu.
 Tylor  
 DORTEY  
 SWIRLY  
-zskilledv
+zskilledv  
+adji_chan  
+dizzy.da.biggy.mizzy.glizzy

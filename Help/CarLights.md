@@ -4,13 +4,14 @@
 Tab with setting for your headlights and tail lights. From here you can add lights to your car, cars of other players in the lobby and change their settings.
 Lights are pre-configured for all the cars, however depending on the bodykit you might want to change the position settings for a better fit. Light settings are synced between players who have the mod.
 
-**`HIDE LIGHTS AFTER`** is the distance after which the lights will be hidden. This is an option so save you FPS if you're experiencing performance issues with too many lights on the track.
+**`SYNC LIGHTS`** button toggles the light synchronization. This only affect whether or not you will see other players enabling/disabling their lights. Color and and brightness are always synchronized between players with the mod.
 
-**`ENABLE OWN LIGHTS`** will add lights to your own car, after that the option to edit their brightness, position and color will be unlocked. You can use ***debug objects*** to see the position of the light source to help you with configuring them.
+**`HAZARD LIGHTS`** enables the hazards. They are pre-configured for all the cars, but you can change their position to better fit the bodykit. You can adjust how quick they blink as well.
 
-**`ADD LIGHTS TO EVERYONE`** works as a toggle and will automatically add lights to every player in the lobby. The lights settings of the mod users are synced so all the changes they do to their light brightness, color or position will be seen on your screen as well.
+**`HEAD LIGHTS COLOR`** opens the small window where you can adjust the color of your lights
 
-**`LIGHTS QUALITY`** has two options: low and medium. This option affects lights illumination. On ***low*** setting illumination will only work on your car while on ***medium*** it will also work on cars of other players.
+**`ANGLE`** Adjusts the angle of your lights. It is recommended to keep this setting at 120 for the best look, but you can adjust this if you want.
 
-**`HAZARD LIGHTS`** enables the hazards, you can change their options in the ***HAZARD LIGHTS*** tab.
-![Hazards](../Images/hazard_lights.png)
+**`HEADLIGHTS BRIGHTNESS`** Allows you to change the brightness of your lights, CarX default value is 20000, however it is recommended to keep it at 10000 for the more realistic look.
+
+<p style="color:red;"><b>Since the module replaces the CarX lights, it has certain issues. The light have a conflict with Goats maploader and might disappear on maps with lots of lighting (however from personal testing there's no deffinite cause and sometimes they work just fine). Either way if you're having issues, you can disable lights module from the SETTINGS tab (only works while you're in the garage)</p></b>
