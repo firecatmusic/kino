@@ -13,3 +13,5 @@ You can change the mod language here. Currently avaliable languages are ***eng, 
 **DISABLE CONSOLE COLLISIONS** will disable collisions with console players.
 
 **HIDE CONSOLE PLAYERS** will hide them completely.
+
+**LOADED MODULES** is a list of mod modules that are curently being used by the mod. You can disable certain modules if you believe that they affect your game's performance or have conflicts with other mods.
