@@ -391,4 +391,7 @@ Tylor
 DORTEY  
 SWIRLY  
 zskilledv  
-dizzy.da.biggy.mizzy.glizzy
+dizzy.da.biggy.mizzy.glizzy  
+Krome  
+Steal  
+TokyoCloud
