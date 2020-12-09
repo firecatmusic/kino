@@ -391,5 +391,4 @@ Tylor
 DORTEY  
 SWIRLY  
 zskilledv  
-adji_chan  
 dizzy.da.biggy.mizzy.glizzy
