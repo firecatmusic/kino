@@ -398,4 +398,10 @@ TokyoCloud
 Blurr  
 Tyler  
 Yusii  
-cryyzer
+cryyzer  
+Mickey  
+Akbar  
+Adji Chan  
+Zombie Thor  
+Edvin  
+Salt King
