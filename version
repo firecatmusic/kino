@@ -1,10 +1,7 @@
-Version=214
-Patch=2
+Version=220
+Patch=0
 Updater=11
-Client=281
+Client=282
 %UPDATE%
-Added tune sharing feature
-Added controls for CarX lights, along with toggle syncronization.
-Added ability to disable camera rotation in the garage
-Added swaps for new cars
+Added CarX 282 support
 %PATCHNOTES%
