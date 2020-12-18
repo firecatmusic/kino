@@ -439,5 +439,6 @@ Eyliaz
 Diligence  
 nicko  
 Kee Grizzley  
-★彡Ａｓｃｈｅｎｔｅ＊༄  
-ℜ𝔢𝔩𝔞𝔵𝔢𝔯
+★彡Ａｓｃｈｅｎｔｅ＊༄   
+ℜ𝔢𝔩𝔞𝔵𝔢𝔯  
+chelych
