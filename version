@@ -1,8 +1,9 @@
 Version=220
-Patch=1
+Patch=2
 Updater=11
 Client=282
 %UPDATE%
 Added CarX 282 support
 %PATCHNOTES%
 Added JP translation
+Fixed tag file to proper handle '<' and '>' characters
