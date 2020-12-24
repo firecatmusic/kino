@@ -485,4 +485,8 @@ miata boi
 Frolix  
 Ashton E.  
 id  
-Zuhh
+Zuhh  
+$kar  
+Redxrect  
+ZeeVanjul  
+Ariel
