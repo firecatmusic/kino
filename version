@@ -1,5 +1,5 @@
 Version=221
-Patch=0
+Patch=1
 Updater=11
 Client=282
 %UPDATE%
@@ -7,3 +7,4 @@ Added safe flymod for custom maps (F1 to toggle)
 Added fly speed config (Settings tab)
 Fixed collisions issues
 %PATCHNOTES%
+Small settings GUI fix
