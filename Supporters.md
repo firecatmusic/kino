@@ -499,4 +499,5 @@ Kokujin
 Tropcls  
 Huhu  
 Revver  
-Masao
+Masao  
+kurry
