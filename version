@@ -1,9 +1,9 @@
-Version=220
-Patch=2
+Version=221
+Patch=0
 Updater=11
 Client=282
 %UPDATE%
-Added CarX 282 support
+Added safe flymod for custom maps (F1 to toggle)
+Added fly speed config (Settings tab)
+Fixed collisions issues
 %PATCHNOTES%
-Added JP translation
-Fixed tag file to proper handle '<' and '>' characters
