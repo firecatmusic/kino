@@ -500,4 +500,5 @@ Tropcls
 Huhu  
 Revver  
 Masao  
-kurry
+kurry  
+DIS Stuey
