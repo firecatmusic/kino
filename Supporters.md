@@ -492,4 +492,11 @@ ZeeVanjul
 Ariel  
 _Boney  
 17fire  
-Dawidos_
+Dawidos_  
+KGN  
+BigOisOnDiscord  
+Kokujin  
+Tropcls  
+Huhu  
+Revver  
+Masao
