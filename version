@@ -1,10 +1,7 @@
-Version=221
-Patch=1
+Version=222
+Patch=0
 Updater=11
-Client=282
+Client=290
 %UPDATE%
-Added safe flymod for custom maps (F1 to toggle)
-Added fly speed config (Settings tab)
-Fixed collisions issues
+Removed CarX client version check
 %PATCHNOTES%
-Small settings GUI fix
