@@ -521,8 +521,10 @@ Karnage
 Wandamas  
 Wayward  
 Phazo  
-shadowofdanite  
+shadwofdanite  
 Reject Master  
-sqya  
+zqya  
 FakeSwed  
-Kitten
+Kitten  
+Turbo Sleeper  
+Blender
