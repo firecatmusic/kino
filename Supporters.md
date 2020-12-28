@@ -513,9 +513,16 @@ kem
 Rahkwal_  
 inhabs  
 Germ  
-Dupra  
+Dewpra  
 neotakyo  
 𝕺𝖋𝖋𝕭𝖊𝖆𝖙  
 Roma.  
 Karnage  
-Wandamas
+Wandamas  
+Wayward  
+Phazo  
+shadowofdanite  
+Reject Master  
+sqya  
+FakeSwed  
+Kitten
