@@ -530,4 +530,8 @@ Turbo Sleeper
 Blender  
 m a x  
 chill  
-𝕮𝖚𝖒𝖘𝖎𝖈𝖑𝖊
+𝕮𝖚𝖒𝖘𝖎𝖈𝖑𝖊  
+Vertryn  
+Mila  
+arvizz  
+Dios
