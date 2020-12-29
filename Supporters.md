@@ -527,4 +527,7 @@ zqya
 FakeSwed  
 Kitten  
 Turbo Sleeper  
-Blender
+Blender  
+m a x  
+chill  
+𝕮𝖚𝖒𝖘𝖎𝖈𝖑𝖊
