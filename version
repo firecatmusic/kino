@@ -3,5 +3,6 @@ Patch=0
 Updater=11
 Client=290
 %UPDATE%
-Added sliders for rev limiter and max. torque for swaps
+Extended swap tuning
+Swaps now show power output
 %PATCHNOTES%
