@@ -591,4 +591,8 @@ Guido
 Brrox  
 RayquazaKing04  
 veledss  
-itz_blui
+itz_blui  
+SnoopyJr  
+pluto  
+Lafesto  
+Alleckz Cihak
