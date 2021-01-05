@@ -615,4 +615,8 @@ Vee
 Awful  
 k24bru  
 just1n97  
-OMGNEWTHERE
+OMGNEWTHERE  
+RussiaCat  
+syth  
+hdshade  
+skyrzma
