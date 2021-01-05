@@ -620,4 +620,6 @@ RussiaCat
 syth  
 hdshade  
 𝔟𝔩𝔢𝔢𝔡  
-Schooly
+Schooly  
+Nanzki  
+Mango
