@@ -1,8 +1,8 @@
-Version=223
+Version=224
 Patch=0
 Updater=11
 Client=290
 %UPDATE%
-Extended swap tuning
-Swaps now show power output
+Added weight to swapped engines
+Added functional for beta-testers
 %PATCHNOTES%
