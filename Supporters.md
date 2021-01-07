@@ -649,4 +649,5 @@ Psik0
 Stun  
 Tuchi  
 SiZoPL  
-shox
+shox  
+Equal
