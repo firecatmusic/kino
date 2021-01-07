@@ -1,9 +1,10 @@
 Version=224
-Patch=2
+Patch=3
 Updater=11
 Client=290
 %UPDATE%
 Added weight to swapped engines
 Added functional for beta-testers
 %PATCHNOTES%
-Fixed name duplication if tag applied
+Enabled noclip in single-paler mode
+Updated tuning GUI
