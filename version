@@ -1,8 +1,9 @@
 Version=224
-Patch=0
+Patch=1
 Updater=11
 Client=290
 %UPDATE%
 Added weight to swapped engines
 Added functional for beta-testers
 %PATCHNOTES%
+Fixed name duplication if tag applied
