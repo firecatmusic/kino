@@ -1,10 +1,10 @@
 Version=224
-Patch=3
+Patch=4
 Updater=11
 Client=290
 %UPDATE%
 Added weight to swapped engines
 Added functional for beta-testers
 %PATCHNOTES%
-Enabled noclip in single-paler mode
 Updated tuning GUI
+Enabled rain for beta-testers
