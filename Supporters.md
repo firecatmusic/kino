@@ -656,4 +656,6 @@ thottie
 𝘾𝞸𝙣𝙣𝞸𝙧 ｯ  
 Aroze Rider  
 Metsaoks  
-Punjj
+Punjj  
+TrippyToxins  
+tayeworld
