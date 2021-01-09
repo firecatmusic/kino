@@ -663,4 +663,8 @@ Activezz
 KSL  
 2theWall  
 Ozaku  
-Metagross
+Metagross  
+NachoLibre  
+SilverSplash237  
+NagatoSV  
+Ryota
