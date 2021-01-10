@@ -678,4 +678,6 @@ Cali
 Oddity  
 Dakota  
 twiiz.  
-Killugh
+Killugh  
+Krinsher  
+RosyPC
