@@ -671,4 +671,11 @@ Ryota
 peterm96  
 _KOMODO_  
 Alexey_1337  
-Cherfy
+Cherfy  
+Awful  
+Pineapple  
+Cali  
+Oddity  
+Dakota  
+twiiz.  
+Killugh
