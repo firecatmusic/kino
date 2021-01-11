@@ -692,4 +692,9 @@ ehh
 MadDave95  
 detop  
 sveiks  
-₵ⱠØɄĐ
+₵ⱠØɄĐ  
+Marquiss  
+Hailey  
+dylan_ducey  
+zShirui  
+basisvisuals
