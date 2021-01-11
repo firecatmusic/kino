@@ -698,5 +698,8 @@ Hailey
 dylan_ducey  
 zShirui  
 basisvisuals  
-merky_bucket
+merky_bucket  
 Deukzy  
+yuki  
+novrizaldwis  
+isaktibbonge
