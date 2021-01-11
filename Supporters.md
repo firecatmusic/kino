@@ -705,4 +705,6 @@ novrizaldwis
 isaktibbonge  
 x1larus  
 xJoKRx  
-Method ´
+Method ´  
+Baesic  
+Banta
