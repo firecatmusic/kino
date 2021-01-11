@@ -697,4 +697,6 @@ Marquiss
 Hailey  
 dylan_ducey  
 zShirui  
-basisvisuals
+basisvisuals  
+merky_bucket
+Deukzy  
