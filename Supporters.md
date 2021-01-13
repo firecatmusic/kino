@@ -724,7 +724,7 @@ VPC Stance
 G_ngee  
 Rozzi  
 Kontrasy  
-ILLES_DESIGNS  
+ILLES DESIGNS  
 EXODUS  
 twisted  
 snk  
