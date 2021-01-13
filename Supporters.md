@@ -734,4 +734,14 @@ Connor
 Destirb  
 Empty  
 Vyx  
-Daito...
+Daito...  
+Happy  
+Doogaun  
+Art_Somente  
+zNtt  
+The_Silence  
+Rafa  
+ABSOLU_BLU  
+Gus  
+LOVESONG  
+Yiğit Altunsoy
