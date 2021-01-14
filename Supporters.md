@@ -747,4 +747,8 @@ LOVESONG
 Yiğit Altunsoy  
 Austism  
 Sinister  
-strast
+strast  
+GroovyRice  
+Vulkari  
+LANDO  
+Smash Detroio
