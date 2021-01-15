@@ -776,4 +776,5 @@ RadGrizzly
 Ticur Lapointe  
 TTVMixedChemicals  
 Zac Hobbs  
-KONJITSKI
+KONJITSKI  
+cuz Logic™
