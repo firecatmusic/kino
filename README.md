@@ -2,7 +2,7 @@
 #
 [![Releases](https://img.shields.io/github/v/release/trbflxr/kino?include_prereleases&label=DOWNLOAD&style=for-the-badge)](https://github.com/trbflxr/kino/releases) 
 [![KiNO Discord](https://img.shields.io/discord/716264804498538516?label=DISCORD&style=for-the-badge)](https://discord.gg/xvGMEEcEEp)
-[![donation](https://img.shields.io/badge/paypal-donate-blue?style=for-the-badge&link=http://paypal.me/karinkirill)](http://paypal.me/karinkirill)
+[![donation](https://img.shields.io/badge/paypal-donate-blue?style=for-the-badge&link=http://paypal.me/karinkirill)](https://forms.gle/Zq1ThXMmHnuUk5jg8)
 ### Required: [BepInEx mod loader](https://github.com/BepInEx/BepInEx/releases)
 ## About
  The mod that has become pupular for it's lighting and livery sharing features.  
