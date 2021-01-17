@@ -820,4 +820,14 @@ eatsleepkill
 Underscore  
 ThatV8RX7  
 pointy hand  
-papa franku
+papa franku  
+D_Rick  
+SQUISHY  
+Henkdepotivissss  
+nitro  
+Swift  
+(DJSnout)  
+srian  
+AfganFish  
+HellaThicc_  
+swaazyyy
