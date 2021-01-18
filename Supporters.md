@@ -854,4 +854,7 @@ slurpymaker
 vtec508  
 SINZURI  
 ItsBrieley  
-Brandy
+Brandy  
+Xailer  
+impérial..  
+ARTEX
