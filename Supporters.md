@@ -901,3 +901,15 @@ purpleloner
 Trap goose  
 CAPTAIN CRACK  
 thatboynarb
++CAPTAIN CRACK  
+Ash<3    
+dooog  
+Loxpeepee  
+SspacemannSpiff  
+KVN93tv  
+bRADY  
+ImJamx  
+bloods  
+sourbanana  
+xenforq  
+POTATO HEADED FUCK
