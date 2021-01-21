@@ -913,4 +913,5 @@ bloods
 sourbanana  
 xenforq  
 POTATO HEADED FUCK  
-bighewitt92
+bighewitt92  
+Dinescu Eduard George
