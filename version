@@ -1,8 +1,8 @@
-Version=224
-Patch=4
+Version=230
+Patch=0
 Updater=11
 Client=290
-Bundle=107
+Bundle=108
 %UPDATE%
 Added weight to swapped engines
 Added functional for beta-testers
