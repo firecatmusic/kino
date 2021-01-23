@@ -13,8 +13,8 @@
 
 * [**Car Lights**](https://github.com/trbflxr/kino/blob/master/Help/CarLights.md)  
 Lights for your car with pre-configured locations for both your headlights, tail lights and hazard lights. Light positions and color settings are synced between players who have the mod.
-* [**World Lighting**](https://github.com/trbflxr/kino/blob/master/Help/WorldLighting.md)  
-Allows to change the sunlight, skybox and ambient light brightness. Most people use this for night mode but you can actually make pretty nice looking morning/daylight configs. Also you can enable the volumetric fog and change it's distance and volume.
+* [**Weather**](https://github.com/trbflxr/kino/blob/master/Help/Weather.md)  
+Features rain with custom road shader, and few custom skyboxes to choose from. Allows to change the sunlight, skybox and ambient light brightness. Most people use this for night mode but you can actually make pretty nice looking morning/daylight configs. Also you can enable the volumetric fog and change it's distance and volume.
 * [**Visuals**](https://github.com/trbflxr/kino/blob/master/Help/Visuals.md)  
 Allows to save your liveries for copying (in case you want to experiment on it without risking unwanted changes being saved), creating backups (you never know when your profile can get reset for no reason), or sharing them with other players or apply the downloaded liveries.
 Also gives the ability to offset the camera in livery editor for easier livery creation.
