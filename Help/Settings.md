@@ -19,3 +19,5 @@ You can change the mod language here. Currently avaliable languages are ***eng, 
 **`FLY SPEED`** and **`FLY SPEED MULTIPLIER`** are the sliders used to control the speed of the noclip/flymod feature. You can only use it in modded (corrupted lobbies). This feature exists only for modded maps.
 
 **`LOADED MODULES`** is a list of mod modules that are curently being used by the mod. You can disable certain modules if you believe that they affect your game's performance or have conflicts with other mods.
+
+<p style="color:red;"><b>FOR THE RAIN AND SKYBOX FEATURES TO WORK YOU NEED TO DOWNLOAD THE ASSET BUNDLE. TO DOWNLOAD IT CLICK THE <i>UPDATE AVAILABLE</i> AT THE TOP. YOU WILL ALSO UPDATE THE BUNDLE FROM THIS TAB WHENEVER IS NEEDED.</p></b>
