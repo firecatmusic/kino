@@ -937,4 +937,8 @@ Bald Black Rust Man
 Boogielicious  
 Rajiroku  
 Rhetorik_  
-piggy
+piggy  
+harz  
+Dank  
+RZNY  
+MC HERCULES
