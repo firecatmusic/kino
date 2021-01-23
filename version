@@ -4,8 +4,10 @@ Updater=11
 Client=290
 Bundle=108
 %UPDATE%
-Added weight to swapped engines
-Added functional for beta-testers
+Added rain with custom shaders
+Added skyboxes
+Added downloadable resource bundle from the settings tab
+Saving weather settings per map
+Improved weather module stability
+Livery browser only shows liveries made for the chosen car
 %PATCHNOTES%
-Updated tuning GUI
-Enabled rain for beta-testers
