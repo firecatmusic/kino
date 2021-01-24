@@ -1,5 +1,5 @@
 Version=230
-Patch=1
+Patch=2
 Updater=11
 Client=290
 Bundle=108
@@ -11,3 +11,4 @@ Saving weather settings per map
 Improved weather module stability
 Livery browser only shows liveries made for the chosen car
 %PATCHNOTES%
+Fixed weather on night maps
