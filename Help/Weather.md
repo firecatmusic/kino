@@ -2,7 +2,7 @@
 # Weather
 In this tab you can **enable** the sliders to change the lighting settings such as the brightness of sunligh, skybox and ambient light as well the color temperature.
 
-**`FOG`** can has the options to configre the ***fog distance*** which is how far from the camera the fog will be, and the ***fog volume*** which is basically the thickness of the fog (doesn't really work on current carx version)
+**`FOG`** has the options to configre the ***fog distance*** which is how far from the camera the fog will be, and the ***fog volume*** which is basically the thickness of the fog (doesn't really work on current carx version)
 
 **`RAIN INTESITY`** slider has 3 options for the instensity of the rain, which would affect how "thick" the rain effect is.
 
