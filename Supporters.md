@@ -949,4 +949,8 @@ Colubrinus
 STR8B3RRy  
 Johan Garcia 217  
 maddln7  
-ducky
+ducky  
+Simon  
+Fone  
+Riighty  
+ℌ𝔞𝔦𝔱𝔥𝔴𝔞𝔦𝔱𝔢
