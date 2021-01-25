@@ -957,7 +957,6 @@ Riighty
 MrDaleJE  
 FKZM  
 pubemuncher  
-Levataine  
-harz  
+Levataine    
 TiF  
 Taboro Vergas
