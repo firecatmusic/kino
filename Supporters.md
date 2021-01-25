@@ -953,4 +953,11 @@ ducky
 Simon  
 Fone  
 Riighty  
-ℌ𝔞𝔦𝔱𝔥𝔴𝔞𝔦𝔱𝔢
+ℌ𝔞𝔦𝔱𝔥𝔴𝔞𝔦𝔱𝔢  
+MrDaleJE  
+FKZM  
+pubemuncher  
+Levataine  
+harz  
+TiF  
+Taboro Vergas
