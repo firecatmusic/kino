@@ -4,11 +4,9 @@ Updater=11
 Client=290
 Bundle=110
 %UPDATE%
-Added rain with custom shaders
-Added skyboxes
-Added downloadable resource bundle from the settings tab
-Saving weather settings per map
-Improved weather module stability
-Livery browser only shows liveries made for the chosen car
+Added controls binding from the UI
+Added handbrake toggle keybind
+Added turn indicators
+Added Finnish localization by Nokke
+Added 275, 295, 305 wheel width options in the dyno tuning
 %PATCHNOTES%
-Fixed weather on night maps
