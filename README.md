@@ -21,8 +21,7 @@ Also gives the ability to offset the camera in livery editor for easier livery c
 * [**Tuning**](Help/Tuning.md)  
 This module contains the livery sharing as well as the custom backfire option. Supporters with access to the [Extras](Help/Extras.md) module will also see the swaps there. 
 * [**Settings**](https://github.com/trbflxr/kino/blob/master/Help/Settings.md)   
-You can change the mod language from here. Currently avaliable languages are: ENG, FR, RU, JP, NL, PL, ITA. If you wish to help us translate the mod to your native language feel free to contact us on discord (link at the top)  
-Also has the options to hide points counter and nicknames. Enable the custom tachometer (works after hiding the UI with F11). Force the white smoke to all the players (if you get annoyed by colored smoke). Disable collision with console players, or hide them completely!
+You can change the mod language from here. Has the options to hide points counter and nicknames. Enable the custom tachometer (works after hiding the UI with F11). Force the white smoke to all the players (if you get annoyed by colored smoke). Disable collision with console players, or hide them completely! Also this tab allows you to change keybindings for some of the mod features.
 * [**Extras**](https://github.com/trbflxr/kino/blob/master/Help/Extras.md)  
 An extra module that is given as a "thanks you" to players who supported the mod development by donating. Has a few neat features such as the ability to disable collisions with chosen players, adding a custom tag for your nickname (so you don't have to clutter your steam name), changing the tire pressure on the go and the experimental features that hasn't been made public yet such as **engine swaps** for now.
 
@@ -34,10 +33,6 @@ PG DN to enable headlights.
 F1 to enable noclip/flymod (only works in modded/corrupted lobbies)
 Controlls are WASD/QE keys.   
 Speed can be adjusted in [settings](https://github.com/trbflxr/kino/blob/master/Help/Settings.md).
-
-## Config
-Inside your CarX Drift Racing Online\BepInEx\plugins\KN_Base folder you will find a kn_config.xml file that you can open with either notepad or notepad++ (recommended) where you can change the keybinds to your prefered buttons.  
-You can also bind keys to your controller. Please google Unity key codes for your Xbox/Playstation controller.
 
 ## Installation
 Installation is described in [here](INSTALL.md).
