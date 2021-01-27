@@ -1,5 +1,5 @@
 Version=240
-Patch=1
+Patch=2
 Updater=11
 Client=290
 Bundle=110
@@ -10,4 +10,4 @@ Added turn indicators
 Added Finnish localization by Nokke
 Added 275, 295, 305 wheel width options in the dyno tuning
 %PATCHNOTES%
-Fixed hazards and turn signals sync
+Fixed weather configurations for night maps
