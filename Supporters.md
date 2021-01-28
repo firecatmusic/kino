@@ -1025,4 +1025,11 @@ G.R.I.N
 Jordanm1504  
 JambrongXXX  
 k1n3M  
-Moe_
+Moe_  
+High Jawa  
+Tom With Cigar  
+azz  
+Kurama  
+Warden  
+Matic  
+Nastri
