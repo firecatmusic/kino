@@ -1034,8 +1034,13 @@ Warden-44
 Matic  
 Nastri  
 Keiichi  
-TakeOverFabrication  
+TakeOverFabrication  
 Warmongering  
 Bennett  
 nrbears1  
-acidic
+acidic  
+bean  
+Kris PrOdyGii  
+Pesky  
+KillSwitch  
+Rule
