@@ -1044,4 +1044,13 @@ Kris PrOdyGii
 Pesky  
 KillSwitch  
 Rule  
-Velocity | Anderzzon
+Velocity | Anderzzon  
+reverse  
+gordlord  
+alfr3d0  
+Pireks  
+KR_B3KD  
+Zac1331311  
+sixes  
+SadBoy  
+Paranoia
