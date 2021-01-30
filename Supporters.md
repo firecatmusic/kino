@@ -1061,4 +1061,5 @@ Cheawee
 KYLO  
 DrachenOfTime  
 Amatsu違法  
-Kastowa
+Kastowa  
+ozzi
