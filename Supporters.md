@@ -1042,6 +1042,7 @@ acidic
 bean  
 Kris PrOdyGii  
 Pesky  
+Heimolaine  
 KillSwitch  
 Rule  
 Velocity | Anderzzon  
@@ -1059,4 +1060,5 @@ ahmanthedon
 Cheawee  
 KYLO  
 DrachenOfTime  
-Amatsu違法
+Amatsu違法  
+Kastowa
