@@ -1075,4 +1075,8 @@ TheMetalEchidna
 Gumball  
 Jordy  
 NOT.Requis  
-PSI Sgnt
+PSI Sgnt  
+Mnblackout  
+Clint Eastwood  
+Kowals-Qi  
+blackcaviar
