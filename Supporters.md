@@ -1129,4 +1129,8 @@ Fatal
 xWispa  
 Doggy  
 S K I D Z  
-Corsa
+Corsa  
+Mati<3  
+xDoosa  
+Nuclear_Savage  
+laurits
