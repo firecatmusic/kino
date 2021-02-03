@@ -1126,4 +1126,7 @@ Flabongo
 TanTheMonkeyMan  
 GANDHI  
 Fatal  
-xWispa
+xWispa  
+Doggy  
+S K I D Z  
+Corsa
