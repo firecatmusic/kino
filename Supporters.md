@@ -1169,4 +1169,6 @@ Nao
 acee  
 acktudrift  
 Rafaelgrilo  
-Armani
+Armani  
+frags  
+✪𝓡 𝔁 𝓬 𝒌
