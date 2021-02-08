@@ -1197,6 +1197,7 @@ SchutzstaffelKommandant
 xVDuBzyVx  
 ビジョン  
 Machine  
+中国人は愚かです  
 district  
 Keith  
 taylor  
