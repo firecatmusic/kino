@@ -1193,4 +1193,11 @@ appleluis
 Laurakis  
 Pinkky  
 ㄥㄩ匚卂丂丂  
-SchutzstaffelKommandant
+SchutzstaffelKommandant  
+xVDuBzyVx  
+ビジョン  
+Machine  
+district  
+Keith  
+taylor  
+jebbe
