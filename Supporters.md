@@ -1229,4 +1229,8 @@ PogYoshi
 skyla ♔  
 PartiallyRusty  
 b3nzee  
-Thomáško Trashuo
+Thomáško Trashuo  
+BUSHIDO  
+VeqaZ  
+G1kas  
+Gnar
