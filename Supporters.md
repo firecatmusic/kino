@@ -1233,4 +1233,10 @@ Thomáško Trashuo
 BUSHIDO  
 VeqaZ  
 G1kas  
-Gnar
+Gnar  
+woody  
+Manny  
+Oh egan  
+NIGHTO  
+isanoob  
+NiTh
