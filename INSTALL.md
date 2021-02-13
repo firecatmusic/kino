@@ -2,9 +2,9 @@
 1. Install [BepInEx mod loader](https://github.com/BepInEx/BepInEx/releases) if you haven't already.  
 Download the **x64** version of the BepInEx. Do not download the **Unix** version.   
 Extract the following files from **BepInEx_x64_%version%.zip** into your `CarX Drift Racing Online` folder:  
-**|** BepInEx  
-**|** doorstep_config.ini  
-**|** winhttp.dll
+> BepInEx  
+> doorstep_config.ini  
+> winhttp.dll
 1. Download the latest version of **KiNO** from the [release tab](https://github.com/trbflxr/kino/releases) **(DO NOT DOWNLOAD SOURCE CODE)**.  
 Extract the following files from **release_%version%.zip**:  
 **|** KN_Core.dll  
