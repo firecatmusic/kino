@@ -8,7 +8,7 @@ The `Cinematic` tab consists of two additional tabs:
 In this tab you record replays by choosing which players you want to record from the list of cars and pressing the **`RECORD`** button. Once done you're done recording press the **`STOP`** button to save your replay (replay files are saved in *`CarX Drift Racing/BepInEx/plugins/KN_Base/replays`*).
 
 ### **`PLAYBACK`**  
-Press **`LOAD REPLAY`** to open the file picker from which you can choose the replay file you need.
+Press **`LOAD REPLAY`** to open the file picker from which you can choose the replay file you need.  
 ![Cinematic](../Images/cinematic_picker.png)  
 After the replay is loaded, you're gonna have a list of ghosts saved in replay in the list you will find in the **PLAYBACK** tab.
 
