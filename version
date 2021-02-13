@@ -1,5 +1,5 @@
 Version=250
-Patch=0
+Patch=1
 Updater=11
 Client=292
 Bundle=110
@@ -8,3 +8,4 @@ Replay record and playback
 CarX free camera tweaks to use with replays
 Headlight / tail light / interior light illumination
 %PATCHNOTES%
+Enabled cinematic tab
