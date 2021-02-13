@@ -1,14 +1,10 @@
-Version=240
-Patch=4
+Version=250
+Patch=0
 Updater=11
-Client=291
+Client=292
 Bundle=110
 %UPDATE%
-Added controls binding from the UI
-Added handbrake toggle keybind
-Added turn indicators
-Added Finnish localization by Nokke
-Added 275, 295, 305 wheel width options in the dyno tuning
+Replay record and playback
+CarX free camera tweaks to use with replays
+Headlight / tail light / interior light illumination
 %PATCHNOTES%
-Added smoke intensity slider
-(disabled if rain is ON)
