@@ -1,3 +1,4 @@
+## Does not work on Win 7
 ## English:
 1. Install [BepInEx mod loader](https://github.com/BepInEx/BepInEx/releases) if you haven't already.  
 Download the **x64** version of the BepInEx. Do not download the **Unix** version.   
