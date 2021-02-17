@@ -1357,4 +1357,12 @@ Manfred Smit
 ADJO  
 Tweasel  
 fishy  
-bolgy wogy boy
+bolgy wogy boy  
+IchibanKyle  
+steamMy.  
+Uchia18  
+Codymegalodon  
+Frostyy  
+Arkculite  
+DADDY  
+Ay_QWERTY
