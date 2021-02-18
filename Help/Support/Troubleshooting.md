@@ -1,6 +1,6 @@
 # Mod doesn't work?  
 If the mod doesn't work there could be multiple reasons as to why that could be happening.
-> **Note:** Win 7 is unsupported.
+> **Note:** Win 7 and cracked version of the game are unsupported.
 
 Let's take a look at possible solutions:
 
