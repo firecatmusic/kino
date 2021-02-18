@@ -1384,4 +1384,12 @@ DevilZoku
 macs  
 Koryndaway  
 Kajiyama  
-BOISEN
+BOISEN  
+Armi-_-  
+sn0rhax  
+B u t c h  
+willster4546  
+that_grey_s14  
+DjCrisWar  
+idk lel  
+Kyobi
