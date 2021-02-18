@@ -1380,7 +1380,7 @@ RaydenGD
 StrangeThingx  
 richking70  
 slimewav  
-DevliZoku  
+DevilZoku  
 macs  
 Koryndaway  
 Kajiyama  
