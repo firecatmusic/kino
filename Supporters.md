@@ -1409,4 +1409,9 @@ sillybeast12581
 _suareez  
 RawSide  
 HatedForty  
-Leo_
+Leo_  
+Carpacciao  
+Hirscit  
+SysmicGamer  
+Mittens  
+Nirvash
