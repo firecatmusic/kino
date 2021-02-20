@@ -1418,4 +1418,10 @@ Nirvash
 Asshole Vich Pade  
 Dr.Steve PHD  
 hamd and trexxsi main  
-Nomad
+Nomad  
+jam0  
+80  
+t0xic  
+𝕻𝕺𝕾𝕰𝕽  
+Mavrik  
+MustySon
