@@ -1,5 +1,5 @@
 Version=250
-Patch=2
+Patch=3
 Updater=12
 Client=292
 Bundle=110
@@ -8,5 +8,5 @@ Replay record and playback
 CarX free camera tweaks to use with replays
 Headlight / tail light / interior light illumination
 %PATCHNOTES%
-Improved language selector
-Updated ITA and FR translations
+Fixed XDS colisions
+Extras now show kino users
