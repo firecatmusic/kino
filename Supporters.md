@@ -1481,4 +1481,6 @@ Elmos Got Aids
 Scott Gaskill  
 blobfish  
 𝙼𝚒𝚐𝚞𝚎𝚕𝙲𝚘𝚍𝚎𝚛  
-Keyllart
+Keyllart  
+Lovydraz  
+B O'neal
