@@ -1493,4 +1493,14 @@ Castiel
 Supreme  
 巛fͥucͣkͫ ץøur øpᎥn𝕚on◥  
 SLY  
-brendan.
+brendan.  
+stann  
+rizzky  
+ItssForest  
+morenoaitor  
+Les  
+iNateee  
+Sick  
+VAFFLE  
+AdrianWM  
+sensei
