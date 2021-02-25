@@ -1507,4 +1507,7 @@ sensei
 orCheese  
 Budz  
 not k1ngz  
-tekashisama
+tekashisama  
+trxxple  
+ET  
+Hansson
