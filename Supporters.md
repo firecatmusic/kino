@@ -1527,8 +1527,8 @@ Ty
 Kanji  
 AA stankyy  
 ExSnake  
-truegeneal  
-king dakat  
+truegeneral99  
+king_dakat  
 barry  
 Lie  
 Tunizieca  
