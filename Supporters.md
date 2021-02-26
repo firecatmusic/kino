@@ -1516,4 +1516,12 @@ Mardex
 Sudz  
 熱 x kj23_  
 TheKlaudiz  
-Vertinix
+Vertinix  
+willelobe  
+Cam  
+Frizzy  
+EthanYT  
+Toferia  
+ELFO  
+Ty  
+Kanji
