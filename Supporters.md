@@ -1595,4 +1595,11 @@ Vortex.uk
 Noya  
 Envy  
 axess  
-ItsFoolian
+ItsFoolian  
+KrazyKuztomz  
+𝘾 𝙤 𝙮  
+Edraft  
+☁ 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐃𝐞𝐚𝐭𝐡  
+crustytoes  
+crustytoes  
+Norgki
