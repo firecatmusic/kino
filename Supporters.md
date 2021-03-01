@@ -1602,4 +1602,8 @@ Edraft
 ☁ 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐃𝐞𝐚𝐭𝐡  
 crustytoes  
 killyoself666  
-Norgki
+Norgki  
+PhantomVL  
+Vqsiz  
+☁ 𝙈𝙞𝙙𝙣𝙞𝙜𝙝𝙩  
+Hated | Yono
