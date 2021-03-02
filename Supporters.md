@@ -1606,4 +1606,11 @@ Norgki
 PhantomVL  
 Vqsiz  
 ☁ 𝙈𝙞𝙙𝙣𝙞𝙜𝙝𝙩  
-Hated | Yono
+Hated | Yono  
+Duder  
+Enero  
+Wrigz  
+Karaya_Zero  
+Casper  
+eexuu  
+Elijah
