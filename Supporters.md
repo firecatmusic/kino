@@ -1654,8 +1654,9 @@ Trixx
 dylonjohns  
 Jackal  
 N i S S A N  
-naipoiseinai  
+naipioseinai  
 nick  
 Cody  
 kid  
-BlazeNinja
+BlazeNinja  
+HyperZero
