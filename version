@@ -1,5 +1,5 @@
 Version=251
-Patch=1
+Patch=2
 Updater=12
 Client=292
 Bundle=110
@@ -10,4 +10,4 @@ Open folder from the file pickers
 Cinematic keybinds
 Fixed replay unload
 %PATCHNOTES%
-Sticker scale fix
+Weather fix
