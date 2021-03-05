@@ -1670,4 +1670,11 @@ Saint_Roof
 Gálik  
 Greek  
 lil doug  
-Tylzr
+Tylzr  
+Puffy  
+Purp_Skurp  
+999  
+psychrage  
+Fuzy  
+RomanRus25  
+TheblackWindows
