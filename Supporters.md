@@ -1770,4 +1770,13 @@ PandiLyrics
 PSI SNOT  
 ZANDOOR  
 KRYPTIC K  
-Corollin86
+Corollin86  
+sparzy  
+Amor  
+burgerbait  
+Ty  
+astrx  
+Scuba Steve  
+INKTrix  
+Giovi  
+mlarkwalblerg
