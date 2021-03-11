@@ -1838,8 +1838,7 @@ Menace_Mefjus
 Ben Swole  
 ♡Your Typical E-Girl♡  
 Xavier_Loarca  
-Jackal  
-Vaughn Hrycay  
+Jackal    
 mojoin  
 joeSlaughter  
 Storms  
