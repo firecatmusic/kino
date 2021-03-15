@@ -1931,4 +1931,11 @@ vega
 Loner  
 Yume  
 iRelta  
-.ʲᵉ⁷
+.ʲᵉ⁷  
+iiga_  
+Skrappy  
+Aaksu2  
+Kapsel  
+lacommny  
+Mystery  
+GTR
