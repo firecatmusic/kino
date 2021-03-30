@@ -2332,4 +2332,13 @@ ek_isaac
 sosa  
 Spicy Tofu  
 愛archer.  
-Jojo1k
+Jojo1k  
+Phenix  
+Wae  
+Hatsoph  
+rakoTworczy  
+Hitler  
+tot1ch  
+. 𝙼𝚒𝚗𝚞𝚜 マ  
+WxrstNightmxre  
+NLD$|BUCIK
