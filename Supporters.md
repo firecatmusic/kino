@@ -2420,4 +2420,17 @@ Deadpyro
 GRIZZLY  
 MauditPython  
 Slapps  
-Stonks
+Stonks  
+pvcvn  
+nenadokomneobrashatsa  
+stiiky_  
+Exo  
+Yota ✇  
+Slimpond  
+xSaschix  
+optikal  
+the-barcode  
+fatalvortex  
+wasileusz  
+Shayde  
+SicRipper
