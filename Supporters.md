@@ -2397,4 +2397,19 @@ SzkNathan
 Ty3_KO3blPb  
 Nevermore  
 xVoid  
-Ｄａｍｉａｎ
+Ｄａｍｉａｎ  
+xJackx  
+ыаываы  
+twkz  
+FrikKal  
+Amethyst  
+Vivorra  
+Augis  
+SoggySofa  
+sanzey  
+ThicccNutzzz  
+TheLegend27  
+LonelyYote  
+fugazi  
+ĎâŘk°ØmÈğĄ  
+Walking Cardava
