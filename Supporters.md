@@ -2467,4 +2467,12 @@ Akuma
 Rezexual  
 kKzepO.  
 WheezY  
-jeppebreee
+jeppebreee  
+THEMIGHTYJOHNFU  
+DrugsBunny-420  
+CLOWN  
+Yeti  
+McGavinFPS  
+KevNoBev  
+stef  
+ky
