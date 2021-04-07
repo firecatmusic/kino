@@ -1,7 +1,7 @@
-Version=251
-Patch=5
+Version=252
+Patch=0
 Updater=12
-Client=292
+Client=2100
 Bundle=110
 %UPDATE%
 Livery transfer (reserved for the livery creator role)
@@ -10,4 +10,5 @@ Open folder from the file pickers
 Cinematic keybinds
 Fixed replay unload
 %PATCHNOTES%
-Livery application fix
+Fixed lights and exhaust on DLC cars
+Added more 'randomness' to exhaust pops
