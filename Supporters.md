@@ -2528,4 +2528,13 @@ Maxkill678
 itz_pengu  
 x20v | Barhoom  
 syRuzss  
-YeahCunt
+YeahCunt  
+Zue  
+KipoParadise  
+Zooty  
+Mecik  
+SheL  
+Simaris  
+SyphonGaming  
+Blv  
+xGRIZZx
