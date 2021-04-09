@@ -22,6 +22,14 @@ The mod relies on the **Visual C++ Redistributable for Visual Studio 2015, 2017 
 ![vcredisterror](https://cdn.discordapp.com/attachments/561211887900033044/810289048018616370/redist.png)  
 even if your installation 100% correct, this might be the cause. However only resort to this if KiNO is the only mod that isn't working. You will need the x64 version of the VC Redist that you can also download from the [Miscrosoft website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download and install the [vc_redist.x64.exe](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 
+> 📌**Note:** after installing **.NET Framework** and **Visual C++ Redistributable** you might have to restart your PC for it to work.
+
 ### **If the mod still doesn't work**
-**|** Go to the `doorstep_config.ini` file located inside CarX Drift Racing Online folder, open it with any text editor and change the value for **redirectOutputLog** from false to true. Save the file.  
-**|** Start the game once. Close the game right after you load into the garage. You will have a file called `output_log.txt` generated inside the CarX Drift Racing Online folder. DM it to us with the detailed explanation on what you did, we will not be able to provide any help without it.
+**|** Go to the `doorstep_config.ini` file located inside CarX Drift Racing Online folder, open it with any text editor and find a following line:  
+```
+redirectOutputLog=false
+```
+and change it from **false** to **true**. If it's already set to **true** then skip to the next step.  
+
+**|** Start the game once. Close the game right after you load into the garage. You should have a file called `output_log.txt` generated inside the CarX Drift Racing Online folder. Open a ticket in [our discord](https://discord.gg/WfHAp6UupP) and send the mentioned file along with detailed explanation of the issue.  
+> 📌 If the file isn't there you might have an issue with **BepInEx**, unfortunately we cannot provide support for that.
