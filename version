@@ -1,5 +1,5 @@
 Version=253
-Patch=0
+Patch=1
 Updater=12
 Client=2100
 Bundle=110
@@ -9,3 +9,4 @@ PTR 2.11.0 support
 Hazard lights and exhaust for new cars
 Weather config for NRing
 %PATCHNOTES%
+Temporarily disabled custom backfire
