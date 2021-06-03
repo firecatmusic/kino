@@ -1,14 +1,11 @@
-Version=252
+Version=253
 Patch=0
 Updater=12
 Client=2100
 Bundle=110
 %UPDATE%
-Livery transfer (reserved for the livery creator role)
-Unlocked sticker scale
-Open folder from the file pickers
-Cinematic keybinds
-Fixed replay unload
+315 tire width
+PTR 2.11.0 support
+Hazard lights and exhaust for new cars
+Weather config for NRing
 %PATCHNOTES%
-Fixed lights and exhaust on DLC cars
-Added more 'randomness' to exhaust pops
