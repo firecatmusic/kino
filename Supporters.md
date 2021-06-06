@@ -2642,4 +2642,6 @@ Typ
 Cali  
 Pörtner  
 Tonno  
-Miralas
+Miralas  
+NotPleasent  
+Bammin
