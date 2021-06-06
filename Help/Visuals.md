@@ -1,7 +1,13 @@
 ![visuals](../Images/visuals.png)
   
 # VISUALS TAB
-This tab containts the **livery sharing** feature along with the **ZOOM** and **SHIFT** options. You can only use these features while in the garage.
+This tab containts the **livery sharing** feature along with some other helpful features to aid you with livery creation. You can only use these features while in the garage.
+
+**`ENABLE SYMMETRY FOR ALL LAYERS`** allows you to mirror all layers to the other side of the car at once.
+
+**`DISABLE SYMMETRY FOR ALL LAYERS`** disables mirroring of all the layers.
+
+**`REPLACE MATERIAL`** changes the material for all the layers. No reverse button so use with caution.
   
 **`ZOOM`** allows to get the camera closer to the car (helps with creating small details on your liveries).
   
