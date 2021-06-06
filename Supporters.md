@@ -2611,4 +2611,6 @@ bungie
 Forza Edits  
 Prescott  
 NickSmurfy  
-Dan Nguyen
+Dan Nguyen  
+Daniel Düsengleid  
+assensia
