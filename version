@@ -1,12 +1,12 @@
-Version=253
-Patch=1
+Version=254
+Patch=0
 Updater=12
 Client=2100
-Bundle=110
+Bundle=111
 %UPDATE%
-315 tire width
-PTR 2.11.0 support
-Hazard lights and exhaust for new cars
-Weather config for NRing
+Add live camber monitor (enable from the Tuning tab)
+A button to enable symmetry for all layers at once (Visuals tab)
+Replacement of decal materials for all layers at once (Visuals tab)
+Keybind to toggle the driver (settings tab)
+Shader fixes for wet surfaces on PTR 2.11.0 (bundle update from the settings)
 %PATCHNOTES%
-Temporarily disabled custom backfire
