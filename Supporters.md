@@ -2724,6 +2724,7 @@ mrbiff58
 cb kaser  
 NPC  
 Lunar  
+Slides  
 NOBLE  
 RiquelmeArrais  
 Yasuo  
@@ -2752,4 +2753,11 @@ DrKev
 OrcuSWelcomE  
 Drew7526  
 AlmightyPaso  
-OpTiMuS
+OpTiMuS  
+TrxzhVX  
+Clicksy.  
+JoanKnowMe  
+BenGAMER  
+zaffyog  
+2upaaron  
+Okami98
