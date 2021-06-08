@@ -2,7 +2,7 @@ Version=254
 Patch=0
 Updater=12
 Client=2100
-Bundle=110
+Bundle=112
 %UPDATE%
 Add live camber monitor (enable from the Tuning tab)
 A button to enable symmetry for all layers at once (Visuals tab)
