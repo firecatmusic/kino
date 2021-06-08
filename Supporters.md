@@ -2726,4 +2726,7 @@ NPC
 Lunar  
 NOBLE  
 RiquelmeArrais  
-Yasuo
+Yasuo  
+Rev  
+Lohi56  
+Ogoetozheya
