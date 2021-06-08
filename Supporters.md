@@ -2711,4 +2711,19 @@ moudee
 Hackerkm  
 ZEN | Spicy  
 Hei  
-Ryuk
+Ryuk  
+Croc  
+ouynotun  
+Nashbtw  
+sadboi_alexxx  
+Swine  
+DjXperia  
+BepisMan  
+xxGhostie_  
+mrbiff58  
+cb kaser  
+NPC  
+Lunar  
+NOBLE  
+RiquelmeArrais  
+Yasuo
