@@ -2729,4 +2729,6 @@ RiquelmeArrais
 Yasuo  
 Rev  
 Lohi56  
-Ogoetozheya
+Ogoetozheya  
+scatpack_SOLO  
+Queen_Snoogz
