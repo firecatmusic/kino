@@ -5,8 +5,8 @@ The file will be saved to `CarX Drift Racing Online\BepInEx\plugins\KN_Base\tune
 **`LOAD TUNE`** opens the list with the tunes you have in your folder. And applies the tune you choose from the list.
 <p style="color:red;">Make sure to backup your tune before loading a different one otherwise you might loose it</p>
 
-**`SUSPENSION MONITOR`** adds a small interface allowing you to get live values for camber which might assists you in tuning your car. 
-**`ZERO CAMBER THRESHOLD`** a threshold for the optimal camber value around the 0. Values that are beyond the threshold will show up as green/red.
+**`SUSPENSION MONITOR`** adds a small interface allowing you to get live values for camber which might assists you in tuning your car.  
+**`ZERO CAMBER THRESHOLD`** a "margin of error" for the optimal camber value (aka 0). Values withing the threshold will show up green. While positive camber is shown as red.
 
 **`CUSTOM BACKFIRE`** (enabled by default) adds a custom backfire to your exhaust. You can adjust the ***sound volume*** and the ***duration time*** with **`VOLUME`** and **`MAX TIME`** sliders.
 
