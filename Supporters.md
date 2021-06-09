@@ -2780,4 +2780,6 @@ Loo902
 BigBoy  
 Gods On Drugs  
 とりお  
-gokaifuwa
+gokaifuwa  
+REV  
+tacotuesday
