@@ -1,5 +1,5 @@
 Version=255
-Patch=1
+Patch=2
 Updater=12
 Client=2110
 Bundle=112
@@ -9,4 +9,4 @@ Fixed wet surface shader for rain
 Default hazard lights settings fixes
 Updated swap balance
 %PATCHNOTES%
-Backfire re-enabled
+Disabled bundle dependant features if bundle is not up to date (rain/skyboxes)
