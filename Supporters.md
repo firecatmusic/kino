@@ -2817,4 +2817,7 @@ DBAStorm
 Dems  
 slavix  
 Heroin  
-ScrubOfaKind
+ScrubOfaKind  
+Kimi  
+DJPandaTandems  
+Iris
