@@ -2850,4 +2850,9 @@ lord_blackfyre
 Kiba  
 CLnZr  
 tala  
-Blax
+Blax  
+Mayami  
+lungan  
+moe  
+Forgotten  
+Norb
