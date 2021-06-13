@@ -2903,4 +2903,6 @@ Clyked
 King Hit  
 rzlapse 愛  
 KbAkaPrep  
-Kaward4k
+Kaward4k  
+Gygax  
+𝓢𝓽𝓻𝓮𝓮𝓽 𝓡𝓪𝓬𝓮𝓻 死んで
