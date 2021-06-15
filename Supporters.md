@@ -2936,4 +2936,6 @@ ash
 Xenu  
 apocrypo  
 SPILEF  
-Mr Jamiee
+Mr Jamiee  
+Luguinhas  
+Alemão
