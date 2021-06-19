@@ -3030,4 +3030,9 @@ xoekk
 Stealth  
 EMU  
 Faded  
-Uncle Barry
+Uncle Barry  
+MaxH  
+XIRedhawkIX/TheSpy  
+RST Crypx  
+𝕎ℍ𝕀𝕋𝔼 𝕄𝕆ℂℍ𝔸 ♛  
+[ALT+F4]Milovi
