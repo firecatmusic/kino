@@ -3127,4 +3127,8 @@ Oscars
 helik  
 sdfgdfsrfgesd  
 Davii  
-kabutoooo
+kabutoooo  
+Tony Swan  
+BIDONASNEVIDONAS  
+Btc  
+Static
