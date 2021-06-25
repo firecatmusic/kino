@@ -3149,4 +3149,6 @@ UnTalented_NL
 Enzzo  
 Acrose  
 Jolly  
-Wojtass
+Wojtass  
+killa  
+Xalius
