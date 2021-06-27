@@ -3184,4 +3184,8 @@ combatGI
 Popura Is My Waifu  
 Daze  
 BadKarma  
-˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞
+˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞  
+BearRangler  
+Ace_  
+Lurple  
+Hxdrowater
