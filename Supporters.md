@@ -3283,4 +3283,16 @@ Zvanokas
 gúlika  
 Vojta  
 Master Oogway  
-hbboi 6
+hbboi 6  
+Juhl  
+Kid  
+boramora  
+Manchi  
+Sadboi  
+joog  
+SmackyXDグーフィーバム  
+VukVuki  
+beno!  
+WickowatY  
+mono_wolf  
+ShowerShoe
