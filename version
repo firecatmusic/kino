@@ -1,12 +1,11 @@
-Version=255
-Patch=2
+Version=256
+Patch=0
 Updater=12
 Client=2110
 Bundle=112
 %UPDATE%
-Backfire re-enabled
-Fixed wet surface shader for rain
-Default hazard lights settings fixes
-Updated swap balance
+Added car swap on the track
+Added an option to disable livery copression (on by default)
+Added the option to disable platfrom icons
+Added the option to show player's adh in the nickname
 %PATCHNOTES%
-Disabled bundle dependant features if bundle is not up to date (rain/skyboxes)
