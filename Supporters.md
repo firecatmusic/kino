@@ -3594,4 +3594,8 @@ Lukarx7XD
 XDriftingDevon  
 Patamon (caught)  
 Jer Bear  
-Smokey
+Smokey  
+blender<3  
+strappzz  
+Baked_Apples  
+Taylor-Smith
