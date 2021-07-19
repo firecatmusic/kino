@@ -3591,4 +3591,7 @@ leooon
 votetonihuyasibe  
 ANGEL  
 Lukarx7XD  
-XDriftingDevon
+XDriftingDevon  
+Patamon (caught)  
+Jer Bear  
+Smokey
