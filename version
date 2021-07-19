@@ -1,5 +1,5 @@
 Version=256
-Patch=0
+Patch=1
 Updater=12
 Client=2110
 Bundle=112
@@ -9,3 +9,4 @@ Added an option to disable livery copression (on by default)
 Added the option to disable platfrom icons
 Added the option to show player's adh in the nickname
 %PATCHNOTES%
+Fixed weight calculation for swaps
