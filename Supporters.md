@@ -3640,4 +3640,8 @@ YaBoiToxic_
 Niko  
 livid  
 Yatzee  
-Daddy
+Daddy  
+sauce?  
+AnimateDragon19  
+Griml0w  
+U.S.S.R
