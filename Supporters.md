@@ -3670,4 +3670,8 @@ Stabby2018
 Pépito  
 Jimbo  
 KillrXhunnit  
-Excel
+Excel  
+Agent Rocky  
+Malf  
+Thiosis  
+Rixior
