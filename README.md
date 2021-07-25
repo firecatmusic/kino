@@ -7,7 +7,7 @@
 ### **Required:** [*BepInEx mod loader*](https://github.com/BepInEx/BepInEx/releases)
 
 ## About
- The mod that has become pupular for it's lighting and livery sharing features.  
+ The mod that has become popular for it's lighting and livery sharing features.  
  Still in active development with more things getting added.
  
  Brief explanation of features is listed bellow. You can click on the titles for more detailed explanation along with the screenshots of the mentioned tabs. 
