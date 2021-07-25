@@ -3675,4 +3675,7 @@ Agent Rocky
 Malf  
 Thiosis  
 Rixior  
-FRHK
+FRHK  
+iamStrobe  
+Lilchase420  
+megatron
