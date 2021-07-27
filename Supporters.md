@@ -3713,4 +3713,11 @@ Lidia Kuznetsov
 Three-Zero-Bravo  
 Vylnt  
 lump.mtfkP  
-Juan Crucial
+Juan Crucial  
+MYG  
+Отвалжопы  
+Kosmisch  
+DevXsun  
+Complex  
+Тащерка aka fOrGoTteN  
+Mosh
