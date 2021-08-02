@@ -3818,4 +3818,8 @@ eoinod2010
 Hell dark  
 Kuuzo  
 NACHODR1FT  
-Mr.PELDETAJS
+Mr.PELDETAJS  
+Skarmory (Jade)  
+3X  
+Zesty  
+RustySpoon さびた
