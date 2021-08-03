@@ -3822,4 +3822,12 @@ Mr.PELDETAJS
 Skarmory (Jade)  
 3X  
 Zesty  
-RustySpoon さびた
+RustySpoon さびた  
+UAEツ  
+garrett  
+TKs-Ace  
+Lightning McChing  
+illusiv gaming  
+Tsukii  
+Deku_  
+Maagik’s Pet
