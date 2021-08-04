@@ -1,16 +1,10 @@
-Version=257
-Patch=1
+Version=260
+Patch=0
 Updater=12
 Client=2110
 Bundle=113
 %UPDATE%
-Application of car color for apply design button
-Application of wheels for apply design button
-Application of the setup the tune is made for (drift/racing/ultimate)
-Modello weather fixes
-Hazard lights for new cars
-Engine swaps for new cars
-Fixed hazard lights locations on some cars
+Added neons
+UI changes for car lights tab
+Fixed drift counter not working after swapping the car
 %PATCHNOTES%
-Rain/Skyboxes now work on PTR
-Removed smoke opacity slider
