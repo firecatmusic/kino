@@ -15,3 +15,8 @@ The file will be saved to `CarX Drift Racing Online\BepInEx\plugins\KN_Base\tune
 Keep in mind that you can only apply them from the garage. Since they don't work with the dyno you have options to adjust turbo and final drive from the menu. Both are saved per every engine and the car.
 
 If you have the **Extras** you will also be able to change the tire pressure on the go from this tab.
+
+## License plates  
+![plates](../Images/tuning_plates.png)  
+
+### This tab containts the settings for the license plates. 
