@@ -1,10 +1,9 @@
-Version=260
+Version=261
 Patch=0
 Updater=12
 Client=2110
-Bundle=113
+Bundle=114
 %UPDATE%
-Added neons
-UI changes for car lights tab
-Fixed drift counter not working after swapping the car
+Added license plates
+Fixed tune checker (incorrect tire width on non-kino players)
 %PATCHNOTES%
