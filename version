@@ -1,5 +1,5 @@
 Version=261
-Patch=1
+Patch=2
 Updater=12
 Client=2110
 Bundle=114
@@ -7,3 +7,5 @@ Bundle=114
 Added license plates
 Fixed tune checker (incorrect tire width on non-kino players)
 %PATCHNOTES%
+Fixed some neon synchronization issues
+Allowed neon tweaking in the lobby
