@@ -4062,4 +4062,5 @@ skpmulato
 H̷A̴P̵P̴Y̷  
 Ngeray  
 dylankia  
-Mob
+Mob  
+ケンドリック-グリム(Kendorikku-gurimu)
