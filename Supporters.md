@@ -4063,4 +4063,15 @@ H̷A̴P̵P̴Y̷
 Ngeray  
 dylankia  
 Mob  
-ケンドリック-グリム(Kendorikku-gurimu)
+ケンドリック-グリム(Kendorikku-gurimu)  
+Texsun  
+GoonBuhh  
+JT  
+Bkol  
+DarkL33T  
+𝖊𝖑𝖚  
+ArtSpas  
+khronix  
+billis  
+Chika  
+ripsuhdude
