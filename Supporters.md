@@ -4245,4 +4245,7 @@ Invictus
 King Sumo  
 korben  
 slump.  
-j0hn
+j0hn  
+A.C.A.B  
+Jopy  
+lucius
