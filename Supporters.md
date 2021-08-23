@@ -4236,4 +4236,10 @@ neks
 WillyMyWonka  
 pj-.  
 Tom | Dermotius  
-Carlito
+Carlito  
+XploiD  
+ChrIsIsChris  
+PykelAngelo  
+Jnngyn  
+Invictus  
+King Sumo
