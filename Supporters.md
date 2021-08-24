@@ -4248,4 +4248,14 @@ slump.
 j0hn  
 A.C.A.B  
 Jopy  
-lucius
+lucius  
+Average Monk  
+SirZen  
+marc FBK  
+Insecure  
+AdmiralCVS  
+sad wolf boy  
+Mr Kink  
+Suga  
+Captain Crazy  
+Dag-Sub
