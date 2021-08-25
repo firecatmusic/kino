@@ -4277,4 +4277,10 @@ Beddo|Timo
 shros  
 LazyShoT666  
 ᵖʰᵒⁿᵏ  
-Dmitri4
+Dmitri4  
+Gordo Ultra_Instinct  
+BobbyB468  
+itsyaboylilwave  
+Jays_e36  
+Affinity  
+lmaowtf
